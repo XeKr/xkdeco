@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:iron_helmet"
+  },
+  "addition": {
+    "item": "xkdeco:steel_ingot"
+  },
+  "result": {
+    "item": "xkdeco:steel_armor_helmet"
+  }
+}

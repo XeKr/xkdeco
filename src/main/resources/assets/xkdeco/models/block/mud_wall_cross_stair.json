@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "xkdeco:blocks/mud_wall_block_framed_cross",
+    "top": "xkdeco:blocks/mud_wall_block_framed_cross",
+    "side": "xkdeco:blocks/mud_wall_block_framed_cross"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "xkdeco:blocks/ebony_log_side",
+    "particle": "xkdeco:blocks/ebony_log_side"
+  }
+}

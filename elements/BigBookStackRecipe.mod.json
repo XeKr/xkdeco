@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "book_stack",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:SmallBookStack"
+      },
+      {
+        "value": "CUSTOM:SmallBookStack"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SmallBookStack"
+      },
+      {
+        "value": "CUSTOM:SmallBookStack"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BigBookStack"
+    },
+    "name": "big_book_stack_recipe",
+    "namespace": "mod"
+  }
+}

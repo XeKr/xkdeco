@@ -1,0 +1,22 @@
+{
+	"credit": "Made by XeKr with Blockbench",
+	"parent": "block/template_wall_side",
+	"textures": {
+		"particle": "xkdeco:blocks/mud_wall_block",
+		"wall": "xkdeco:blocks/mud_wall_block"
+	},
+	"elements": [
+		{
+			"from": [4, 0, 0],
+			"to": [12, 16, 8],
+			"faces": {
+				"north": {"uv": [0, 0, 8, 16], "texture": "#wall"},
+				"east": {"uv": [8, 0, 16, 16], "texture": "#wall"},
+				"south": {"uv": [0, 0, 8, 16], "texture": "#wall"},
+				"west": {"uv": [0, 0, 8, 16], "texture": "#wall"},
+				"up": {"uv": [4, 0, 12, 8], "texture": "#wall"},
+				"down": {"uv": [4, 8, 12, 16], "texture": "#wall"}
+			}
+		}
+	]
+}

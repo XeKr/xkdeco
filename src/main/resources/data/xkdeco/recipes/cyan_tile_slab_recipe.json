@@ -1,0 +1,22 @@
+{
+  "group": "cyan_tiles",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "xkdeco:cyan_tiles"
+    },
+    "1": {
+      "item": "xkdeco:cyan_tiles"
+    },
+    "2": {
+      "item": "xkdeco:cyan_tiles"
+    }
+  },
+  "result": {
+    "item": "xkdeco:cyan_tile_slab",
+    "count": 6
+  }
+}

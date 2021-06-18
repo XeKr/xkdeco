@@ -1,0 +1,20 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smoking",
+    "xpReward": 1.0,
+    "cookingTime": 100,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smokingInputStack": {
+      "value": "Blocks.LOG2#1"
+    },
+    "smokingReturnStack": {
+      "value": "CUSTOM:EbonyLog"
+    },
+    "name": "ebony_log_recipe",
+    "namespace": "mod"
+  }
+}

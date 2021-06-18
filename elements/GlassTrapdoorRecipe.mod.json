@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 2,
+    "group": "glass_tiles",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:GlassTiles"
+      },
+      {
+        "value": "CUSTOM:GlassTiles"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:GlassTiles"
+      },
+      {
+        "value": "CUSTOM:GlassTiles"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:GlassTrapdoor"
+    },
+    "name": "glass_trapdoor_recipe",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "xkdeco:steel_block"
+    }
+  },
+  "result": {
+    "item": "xkdeco:steel_ingot",
+    "count": 9
+  }
+}

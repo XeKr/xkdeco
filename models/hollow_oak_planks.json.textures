@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "hollow_oak_planks"
+      },
+      "name": "default"
+    }
+  }
+}

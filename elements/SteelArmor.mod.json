@@ -1,0 +1,58 @@
+{
+  "_fv": 18,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "steel_helmet",
+    "enableBody": true,
+    "textureBody": "steel_chestplate",
+    "enableLeggings": true,
+    "textureLeggings": "steel_leggings",
+    "enableBoots": true,
+    "textureBoots": "steel_boots",
+    "creativeTab": {
+      "value": "CUSTOM:XkDecoBasic"
+    },
+    "armorTextureFile": "steel",
+    "helmetName": "Steel Helmet",
+    "bodyName": "Steel Chestplate",
+    "leggingsName": "Steel Leggings",
+    "bootsName": "Steel Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 24,
+    "damageValueHelmet": 2,
+    "damageValueBody": 7,
+    "damageValueLeggings": 5,
+    "damageValueBoots": 2,
+    "enchantability": 9,
+    "toughness": 1.0,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": "item.armor.equip_iron"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:SteelIngot"
+      }
+    ]
+  }
+}

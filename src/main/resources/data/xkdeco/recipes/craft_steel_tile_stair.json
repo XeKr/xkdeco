@@ -1,0 +1,33 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "xkdeco:steel_tiles"
+    },
+    "3": {
+      "item": "xkdeco:steel_tiles"
+    },
+    "4": {
+      "item": "xkdeco:steel_tiles"
+    },
+    "6": {
+      "item": "xkdeco:steel_tiles"
+    },
+    "7": {
+      "item": "xkdeco:steel_tiles"
+    },
+    "8": {
+      "item": "xkdeco:steel_tiles"
+    }
+  },
+  "result": {
+    "item": "xkdeco:steel_tile_stair",
+    "count": 6
+  }
+}

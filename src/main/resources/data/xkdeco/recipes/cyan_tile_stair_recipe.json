@@ -1,0 +1,33 @@
+{
+  "group": "cyan_tiles",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "xkdeco:cyan_tiles"
+    },
+    "3": {
+      "item": "xkdeco:cyan_tiles"
+    },
+    "4": {
+      "item": "xkdeco:cyan_tiles"
+    },
+    "6": {
+      "item": "xkdeco:cyan_tiles"
+    },
+    "7": {
+      "item": "xkdeco:cyan_tiles"
+    },
+    "8": {
+      "item": "xkdeco:cyan_tiles"
+    }
+  },
+  "result": {
+    "item": "xkdeco:cyan_tile_stair",
+    "count": 6
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "block/template_fence_gate_open",
+  "textures": {
+    "texture": "xkdeco:blocks/mahogany_planks"
+  }
+}

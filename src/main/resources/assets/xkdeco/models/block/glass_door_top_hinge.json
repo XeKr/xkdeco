@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_top_rh",
+  "textures": {
+    "bottom": "xkdeco:blocks/glass_door_bottom",
+    "top": "xkdeco:blocks/glass_door_top"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:smoking",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "minecraft:dark_oak_log"
+  },
+  "result": {
+    "item": "xkdeco:ebony_log"
+  }
+}

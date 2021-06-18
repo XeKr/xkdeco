@@ -1,0 +1,33 @@
+{
+  "group": "glass_tiles",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    "45"
+  ],
+  "key": {
+    "0": {
+      "item": "xkdeco:glass_tiles"
+    },
+    "1": {
+      "item": "xkdeco:glass_tiles"
+    },
+    "2": {
+      "item": "xkdeco:glass_tiles"
+    },
+    "3": {
+      "item": "xkdeco:glass_tiles"
+    },
+    "4": {
+      "item": "xkdeco:glass_tiles"
+    },
+    "5": {
+      "item": "xkdeco:glass_tiles"
+    }
+  },
+  "result": {
+    "item": "xkdeco:glass_door",
+    "count": 3
+  }
+}

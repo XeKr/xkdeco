@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_orientable_trapdoor_top",
+  "textures": {
+    "texture": "xkdeco:blocks/glass_trapdoor",
+    "particle": "xkdeco:blocks/glass_trapdoor"
+  }
+}

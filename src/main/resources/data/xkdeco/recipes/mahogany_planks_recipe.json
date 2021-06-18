@@ -1,0 +1,13 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:mahogany_log"
+    }
+  ],
+  "result": {
+    "item": "xkdeco:mahogany_planks",
+    "count": 4
+  }
+}

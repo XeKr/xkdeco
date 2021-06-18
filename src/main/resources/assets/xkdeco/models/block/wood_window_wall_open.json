@@ -1,0 +1,36 @@
+{
+	"credit": "Made by XeKr with Blockbench",
+	"parent": "block/template_fence_gate",
+	"textures": {
+		"particle": "xkdeco:blocks/wood_window",
+		"window": "xkdeco:blocks/wood_window"
+	},
+	"elements": [
+		{
+			"from": [14, 0, 7],
+			"to": [16, 16, 15],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 2, 16], "texture": "#window"},
+				"east": {"uv": [8, 0, 16, 16], "texture": "#window"},
+				"south": {"uv": [0, 0, 2, 16], "texture": "#window"},
+				"west": {"uv": [0, 0, 8, 16], "texture": "#window"},
+				"up": {"uv": [0, 0, 8, 2], "rotation": 90, "texture": "#window"},
+				"down": {"uv": [0, 0, 8, 2], "rotation": 270, "texture": "#window"}
+			}
+		},
+		{
+			"from": [0, 0, 7],
+			"to": [2, 16, 15],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 2, 16], "texture": "#window"},
+				"east": {"uv": [8, 0, 16, 16], "texture": "#window"},
+				"south": {"uv": [0, 0, 2, 16], "texture": "#window"},
+				"west": {"uv": [0, 0, 8, 16], "texture": "#window"},
+				"up": {"uv": [8, 0, 16, 2], "rotation": 270, "texture": "#window"},
+				"down": {"uv": [8, 0, 16, 2], "rotation": 90, "texture": "#window"}
+			}
+		}
+	]
+}

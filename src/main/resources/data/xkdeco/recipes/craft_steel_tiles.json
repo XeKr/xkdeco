@@ -1,0 +1,26 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "xkdeco:steel_ingot"
+    },
+    "1": {
+      "item": "xkdeco:steel_ingot"
+    },
+    "2": {
+      "item": "xkdeco:steel_ingot"
+    },
+    "3": {
+      "item": "xkdeco:steel_ingot"
+    }
+  },
+  "result": {
+    "item": "xkdeco:steel_tiles",
+    "count": 16
+  }
+}

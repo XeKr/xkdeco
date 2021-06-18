@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "xkdeco:blocks/ebony_planks",
+    "top": "xkdeco:blocks/ebony_planks",
+    "side": "xkdeco:blocks/ebony_planks"
+  }
+}

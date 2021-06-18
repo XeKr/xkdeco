@@ -1,0 +1,10 @@
+{
+  "parent": "xkdeco:custom/fish_tank_empty",
+  "textures": {
+    "all": "xkdeco:blocks/fish_tank_bottom",
+    "particle": "xkdeco:blocks/fish_tank_bottom",
+    "side": "xkdeco:blocks/fish_tank_side",
+    "top": "xkdeco:blocks/fish_tank_top",
+    "bottom": "xkdeco:blocks/fish_tank_bottom"
+  }
+}

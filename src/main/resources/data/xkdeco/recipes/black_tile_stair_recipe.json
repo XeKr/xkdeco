@@ -1,0 +1,33 @@
+{
+  "group": "black_tiles",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "xkdeco:black_tiles"
+    },
+    "3": {
+      "item": "xkdeco:black_tiles"
+    },
+    "4": {
+      "item": "xkdeco:black_tiles"
+    },
+    "6": {
+      "item": "xkdeco:black_tiles"
+    },
+    "7": {
+      "item": "xkdeco:black_tiles"
+    },
+    "8": {
+      "item": "xkdeco:black_tiles"
+    }
+  },
+  "result": {
+    "item": "xkdeco:black_tile_stair",
+    "count": 6
+  }
+}

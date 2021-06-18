@@ -1,0 +1,42 @@
+{
+  "group": "fish_tanks",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:nautilus_shell"
+    },
+    "1": {
+      "item": "minecraft:tropical_fish_bucket"
+    },
+    "2": {
+      "item": "minecraft:kelp"
+    },
+    "3": {
+      "item": "minecraft:glass_pane"
+    },
+    "4": {
+      "tag": "minecraft:sand"
+    },
+    "5": {
+      "item": "minecraft:glass_pane"
+    },
+    "6": {
+      "item": "minecraft:glass_pane"
+    },
+    "7": {
+      "item": "minecraft:glass_pane"
+    },
+    "8": {
+      "item": "minecraft:glass_pane"
+    }
+  },
+  "result": {
+    "item": "xkdeco:fish_tank",
+    "count": 1
+  }
+}

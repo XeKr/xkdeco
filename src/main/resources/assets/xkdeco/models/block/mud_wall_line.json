@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xkdeco:blocks/mud_wall_block_framed_cross",
+    "up": "xkdeco:blocks/mud_wall_block_framed_cross",
+    "north": "xkdeco:blocks/mud_wall_block_framed_line",
+    "east": "xkdeco:blocks/mud_wall_block_framed_line",
+    "south": "xkdeco:blocks/mud_wall_block_framed_line",
+    "west": "xkdeco:blocks/mud_wall_block_framed_line",
+    "particle": "xkdeco:blocks/mud_wall_block_framed_cross"
+  }
+}

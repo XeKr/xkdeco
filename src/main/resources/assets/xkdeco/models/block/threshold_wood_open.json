@@ -1,0 +1,22 @@
+{
+	"credit": "Made by XeKr with Blockbench",
+	"parent": "block/block",
+	"textures": {
+		"particle": "xkdeco:blocks/threshold_wood",
+		"texture": "xkdeco:blocks/threshold_wood"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 6],
+			"to": [16, 2, 10],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 2], "texture": "#texture"},
+				"east": {"uv": [0, 0, 4, 2], "texture": "#texture"},
+				"south": {"uv": [0, 0, 16, 2], "texture": "#texture"},
+				"west": {"uv": [0, 0, 4, 2], "texture": "#texture"},
+				"up": {"uv": [0, 0, 16, 4], "texture": "#texture"},
+				"down": {"uv": [0, 0, 16, 4], "texture": "#texture"}
+			}
+		}
+	]
+}

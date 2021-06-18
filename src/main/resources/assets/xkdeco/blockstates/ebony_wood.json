@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "facing=south": {
+      "model": "xkdeco:block/ebony_wood"
+    },
+    "facing=north": {
+      "model": "xkdeco:block/ebony_wood"
+    },
+    "facing=east": {
+      "model": "xkdeco:block/ebony_wood",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "xkdeco:block/ebony_wood",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "xkdeco:block/ebony_wood",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "xkdeco:block/ebony_wood",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "xkdeco:blocks/mud_wall_block",
+    "particle": "xkdeco:blocks/mud_wall_block"
+  }
+}

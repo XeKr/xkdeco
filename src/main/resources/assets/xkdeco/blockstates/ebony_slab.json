@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "xkdeco:block/ebony_slab"
+    },
+    "type=top": {
+      "model": "xkdeco:block/ebony_slab_top"
+    },
+    "type=double": {
+      "model": "xkdeco:block/ebony_slab_full"
+    }
+  }
+}

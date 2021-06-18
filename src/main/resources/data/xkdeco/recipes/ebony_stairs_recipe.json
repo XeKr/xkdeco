@@ -1,0 +1,33 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "xkdeco:ebony_planks"
+    },
+    "3": {
+      "item": "xkdeco:ebony_planks"
+    },
+    "4": {
+      "item": "xkdeco:ebony_planks"
+    },
+    "6": {
+      "item": "xkdeco:ebony_planks"
+    },
+    "7": {
+      "item": "xkdeco:ebony_planks"
+    },
+    "8": {
+      "item": "xkdeco:ebony_planks"
+    }
+  },
+  "result": {
+    "item": "xkdeco:ebony_stairs",
+    "count": 4
+  }
+}

@@ -1,0 +1,67 @@
+{
+	"credit": "Made by XeKr with Blockbench",
+	"parent": "block/block",
+	"textures": {
+		"particle": "xkdeco:blocks/mahogany_log_side",
+		"wall": "xkdeco:blocks/mahogany_log_side",
+		"top": "xkdeco:blocks/mahogany_log_top",
+		"smooth": "xkdeco:blocks/mahogany_smooth"
+	},
+	"elements": [
+		{
+			"from": [2, -0.05, 4],
+			"to": [14, 16.05, 16],
+			"faces": {
+				"north": {"uv": [2, 0, 14, 16], "texture": "#wall"},
+				"east": {"uv": [2, 0, 14, 16], "texture": "#wall"},
+				"south": {"uv": [2, 0, 14, 16], "texture": "#wall"},
+				"west": {"uv": [2, 0, 14, 16], "texture": "#wall"},
+				"up": {"uv": [2, 2, 14, 14], "texture": "#top"},
+				"down": {"uv": [2, 2, 14, 14], "texture": "#top"}
+			}
+		},
+		{
+			"from": [5, 0, -4],
+			"to": [11, 4, 4],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 6, 4], "texture": "#smooth"},
+				"east": {"uv": [0, 0, 8, 4], "texture": "#smooth"},
+				"south": {"uv": [0, 0, 6, 4], "texture": "#smooth"},
+				"west": {"uv": [0, 0, 8, 4], "texture": "#smooth"},
+				"up": {"uv": [0, 0, 8, 6], "rotation": 90, "texture": "#smooth"},
+				"down": {"uv": [0, 0, 8, 6], "rotation": 90, "texture": "#smooth"}
+			}
+		},
+		{
+			"from": [5, 12, -4],
+			"to": [11, 16, 4],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 6, 4], "texture": "#smooth"},
+				"east": {"uv": [0, 0, 8, 4], "texture": "#smooth"},
+				"south": {"uv": [0, 0, 6, 4], "texture": "#smooth"},
+				"west": {"uv": [0, 0, 8, 4], "texture": "#smooth"},
+				"up": {"uv": [0, 0, 8, 6], "rotation": 90, "texture": "#smooth"},
+				"down": {"uv": [0, 0, 8, 6], "rotation": 90, "texture": "#smooth"}
+			}
+		},
+		{
+			"from": [7, 4, -4],
+			"to": [9, 12, 4],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 2, 8], "texture": "#smooth"},
+				"east": {"uv": [0, 0, 8, 8], "texture": "#smooth"},
+				"south": {"uv": [0, 0, 2, 8], "texture": "#smooth"},
+				"west": {"uv": [0, 0, 8, 8], "texture": "#smooth"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [30, 135, 0],
+			"scale": [0.6, 0.6, 0.6]
+		}
+	}
+}

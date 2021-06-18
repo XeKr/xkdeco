@@ -1,0 +1,23 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smithing",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smithingInputStack": {
+      "value": "Items.IRON_LEGGINGS"
+    },
+    "smithingInputAdditionStack": {
+      "value": "CUSTOM:SteelIngot"
+    },
+    "smithingReturnStack": {
+      "value": "CUSTOM:SteelArmor.legs"
+    },
+    "name": "steel_armor_leggings_recipe",
+    "namespace": "mod"
+  }
+}

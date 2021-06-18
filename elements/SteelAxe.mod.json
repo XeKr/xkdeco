@@ -1,0 +1,31 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "steel_axe",
+    "customModelName": "Normal",
+    "name": "Steel Axe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:XkDecoBasic"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 3,
+    "efficiency": 12.0,
+    "attackSpeed": 1.0,
+    "enchantability": 14,
+    "damageVsEntity": 9.0,
+    "usageCount": 1164,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:SteelIngot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "group": "book_stack",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:book"
+    },
+    "1": {
+      "item": "minecraft:book"
+    },
+    "2": {
+      "item": "minecraft:book"
+    },
+    "3": {
+      "item": "minecraft:book"
+    }
+  },
+  "result": {
+    "item": "xkdeco:small_book_stack",
+    "count": 1
+  }
+}

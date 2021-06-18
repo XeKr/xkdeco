@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xkdeco:blocks/mahogany_log_top",
+    "up": "xkdeco:blocks/mahogany_log_top",
+    "north": "xkdeco:blocks/mahogany_log_side",
+    "east": "xkdeco:blocks/mahogany_log_side",
+    "south": "xkdeco:blocks/mahogany_log_side",
+    "west": "xkdeco:blocks/mahogany_log_side",
+    "particle": "xkdeco:blocks/mahogany_log_top"
+  }
+}

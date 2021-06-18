@@ -1,0 +1,20 @@
+{
+  "_fv": 18,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:EbonyWood"
+      },
+      {
+        "value": "CUSTOM:EbonyLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "ebony_log",
+    "namespace": "forge"
+  }
+}

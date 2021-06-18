@@ -1,0 +1,33 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "xkdeco:mahogany_planks"
+    },
+    "3": {
+      "item": "xkdeco:mahogany_planks"
+    },
+    "4": {
+      "item": "xkdeco:mahogany_planks"
+    },
+    "6": {
+      "item": "xkdeco:mahogany_planks"
+    },
+    "7": {
+      "item": "xkdeco:mahogany_planks"
+    },
+    "8": {
+      "item": "xkdeco:mahogany_planks"
+    }
+  },
+  "result": {
+    "item": "xkdeco:mahogany_stairs",
+    "count": 4
+  }
+}

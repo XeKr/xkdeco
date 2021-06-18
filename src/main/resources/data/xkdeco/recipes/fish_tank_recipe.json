@@ -1,0 +1,30 @@
+{
+  "group": "fish_tanks",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:nautilus_shell"
+    },
+    "1": {
+      "item": "minecraft:tropical_fish"
+    },
+    "2": {
+      "item": "minecraft:kelp"
+    },
+    "4": {
+      "tag": "minecraft:sand"
+    },
+    "7": {
+      "item": "xkdeco:empty_fish_tank"
+    }
+  },
+  "result": {
+    "item": "xkdeco:fish_tank",
+    "count": 1
+  }
+}

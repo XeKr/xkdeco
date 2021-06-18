@@ -1,0 +1,9 @@
+{
+  "group": "yellow_tiles",
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "xkdeco:yellow_tiles"
+  },
+  "result": "xkdeco:yellow_roof_eave_side"
+}

@@ -1,0 +1,42 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "xkdeco:steel_ingot"
+    },
+    "1": {
+      "item": "xkdeco:steel_ingot"
+    },
+    "2": {
+      "item": "xkdeco:steel_ingot"
+    },
+    "3": {
+      "item": "xkdeco:steel_ingot"
+    },
+    "4": {
+      "item": "xkdeco:steel_ingot"
+    },
+    "5": {
+      "item": "xkdeco:steel_ingot"
+    },
+    "6": {
+      "item": "xkdeco:steel_ingot"
+    },
+    "7": {
+      "item": "xkdeco:steel_ingot"
+    },
+    "8": {
+      "item": "xkdeco:steel_ingot"
+    }
+  },
+  "result": {
+    "item": "xkdeco:steel_block",
+    "count": 1
+  }
+}

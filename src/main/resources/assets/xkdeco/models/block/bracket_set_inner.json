@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "xkdeco:blocks/wood_smooth",
+    "top": "xkdeco:blocks/wood_smooth",
+    "side": "xkdeco:blocks/wood_smooth"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "side": "fish_tank_side",
+        "top": "fish_tank_top",
+        "bottom": "fish_tank_bottom"
+      },
+      "name": "default"
+    }
+  }
+}

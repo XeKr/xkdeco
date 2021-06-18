@@ -1,0 +1,40 @@
+{
+	"credit": "Made by XeKr with Blockbench",
+	"parent": "minecraft:block/block",
+	"textures": {
+		"4": "xk_whims:blocks/fish_tank_inner",
+		"particle": "xk_whims:blocks/fish_tank_bottom"
+	},
+	"elements": [
+		{
+			"from": [9, 2, 2],
+			"to": [14, 4, 8],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [11, 3, 5]},
+			"faces": {
+				"north": {"uv": [0, 2, 2, 7], "rotation": 270, "texture": "#4"},
+				"east": {"uv": [8, 2, 2, 0], "texture": "#4"},
+				"south": {"uv": [0, 7, 2, 2], "rotation": 270, "texture": "#4"},
+				"west": {"uv": [2, 8, 8, 10], "texture": "#4"},
+				"up": {"uv": [2, 2, 8, 7], "rotation": 90, "texture": "#4"}
+			}
+		},
+		{
+			"from": [8, 2, 2],
+			"to": [9, 4, 5],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [11, 3, 5]},
+			"faces": {
+				"north": {"uv": [0, 7, 2, 8], "rotation": 270, "texture": "#4"},
+				"south": {"uv": [5, 5, 7, 4], "rotation": 270, "texture": "#4"},
+				"west": {"uv": [2, 8, 5, 10], "texture": "#4"},
+				"up": {"uv": [2, 7, 5, 8], "rotation": 90, "texture": "#4"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "group",
+			"origin": [0, 0, 0],
+			"children": [0, 1]
+		}
+	]
+}

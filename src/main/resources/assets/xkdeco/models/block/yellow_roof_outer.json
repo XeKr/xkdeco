@@ -1,0 +1,9 @@
+{
+	"parent": "xkdeco:block/black_roof_outer",
+	"textures": {
+		"ridge": "xkdeco:blocks/yellow_roof_ridge",
+		"inner": "xkdeco:blocks/roof_inner",
+		"particle": "xkdeco:blocks/yellow_roof",
+		"roof": "xkdeco:blocks/yellow_roof"
+	}
+}

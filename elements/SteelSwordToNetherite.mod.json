@@ -1,0 +1,23 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smithing",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smithingInputStack": {
+      "value": "CUSTOM:SteelSword"
+    },
+    "smithingInputAdditionStack": {
+      "value": "Items.NETHERITE_INGOT"
+    },
+    "smithingReturnStack": {
+      "value": "Items.NETHERITE_SWORD"
+    },
+    "name": "steel_sword_to_netherite",
+    "namespace": "mod"
+  }
+}

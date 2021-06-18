@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "xkdeco:blocks/black_tiles",
+    "top": "xkdeco:blocks/black_tiles",
+    "side": "xkdeco:blocks/black_tiles"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "facing=south": {
+      "model": "xkdeco:block/mud_wall_line"
+    },
+    "facing=north": {
+      "model": "xkdeco:block/mud_wall_line"
+    },
+    "facing=east": {
+      "model": "xkdeco:block/mud_wall_line",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "xkdeco:block/mud_wall_line",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "xkdeco:block/mud_wall_line",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "xkdeco:block/mud_wall_line",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

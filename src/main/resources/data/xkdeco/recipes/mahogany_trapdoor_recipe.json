@@ -1,0 +1,32 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "xkdeco:mahogany_planks"
+    },
+    "1": {
+      "item": "xkdeco:mahogany_planks"
+    },
+    "2": {
+      "item": "xkdeco:mahogany_planks"
+    },
+    "3": {
+      "item": "xkdeco:mahogany_planks"
+    },
+    "4": {
+      "item": "xkdeco:mahogany_planks"
+    },
+    "5": {
+      "item": "xkdeco:mahogany_planks"
+    }
+  },
+  "result": {
+    "item": "xkdeco:mahogany_trapdoor",
+    "count": 2
+  }
+}

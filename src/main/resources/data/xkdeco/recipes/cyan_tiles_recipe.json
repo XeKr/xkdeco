@@ -1,0 +1,32 @@
+{
+  "group": "cyan_tiles",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:cyan_terracotta"
+    },
+    "1": {
+      "item": "minecraft:cyan_terracotta"
+    },
+    "2": {
+      "item": "minecraft:cyan_terracotta"
+    },
+    "3": {
+      "tag": "minecraft:planks"
+    },
+    "4": {
+      "tag": "minecraft:planks"
+    },
+    "5": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "result": {
+    "item": "xkdeco:cyan_tiles",
+    "count": 8
+  }
+}

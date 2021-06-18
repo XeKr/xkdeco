@@ -1,0 +1,26 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "xkdeco:mahogany_log"
+    },
+    "1": {
+      "item": "xkdeco:mahogany_log"
+    },
+    "2": {
+      "item": "xkdeco:mahogany_log"
+    },
+    "3": {
+      "item": "xkdeco:mahogany_log"
+    }
+  },
+  "result": {
+    "item": "xkdeco:mahogany_wood",
+    "count": 3
+  }
+}

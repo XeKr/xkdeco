@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "xkdeco:blocks/steel_tiles",
+    "particle": "xkdeco:blocks/steel_tiles"
+  }
+}

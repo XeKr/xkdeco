@@ -1,0 +1,31 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "steel_shovel",
+    "customModelName": "Normal",
+    "name": "Steel Shovel",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:XkDecoBasic"
+    },
+    "toolType": "Spade",
+    "harvestLevel": 3,
+    "efficiency": 8.0,
+    "attackSpeed": 1.0,
+    "enchantability": 14,
+    "damageVsEntity": 5.5,
+    "usageCount": 1164,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:SteelIngot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

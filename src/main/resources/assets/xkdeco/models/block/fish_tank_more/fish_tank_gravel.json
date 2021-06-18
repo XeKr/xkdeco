@@ -1,0 +1,7 @@
+{
+	"parent": "xk_whims:blocks/fish_tank_sand",
+	"textures": {
+		"3": "minecraft:block/gravel",
+		"particle": "xk_whims:blocks/fish_tank_bottom"
+	}
+}

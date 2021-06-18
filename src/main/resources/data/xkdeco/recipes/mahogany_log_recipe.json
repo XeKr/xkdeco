@@ -1,0 +1,30 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:red_dye"
+    },
+    "3": {
+      "item": "minecraft:red_dye"
+    },
+    "4": {
+      "item": "minecraft:acacia_log"
+    },
+    "5": {
+      "item": "minecraft:red_dye"
+    },
+    "7": {
+      "item": "minecraft:red_dye"
+    }
+  },
+  "result": {
+    "item": "xkdeco:mahogany_log",
+    "count": 1
+  }
+}

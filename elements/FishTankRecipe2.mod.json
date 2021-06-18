@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "fish_tanks",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.NAUTILUS_SHELL"
+      },
+      {
+        "value": "Items.TROPICAL_FISH_BUCKET"
+      },
+      {
+        "value": "Blocks.KELP"
+      },
+      {
+        "value": "Blocks.GLASS_PANE"
+      },
+      {
+        "value": "Blocks.SAND"
+      },
+      {
+        "value": "Blocks.GLASS_PANE"
+      },
+      {
+        "value": "Blocks.GLASS_PANE"
+      },
+      {
+        "value": "Blocks.GLASS_PANE"
+      },
+      {
+        "value": "Blocks.GLASS_PANE"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:FishTank"
+    },
+    "name": "fish_tank_recipe_2",
+    "namespace": "mod"
+  }
+}

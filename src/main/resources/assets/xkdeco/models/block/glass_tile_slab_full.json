@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "xkdeco:blocks/glass_tiles",
+    "top": "xkdeco:blocks/glass_tiles",
+    "side": "xkdeco:blocks/glass_tiles"
+  }
+}

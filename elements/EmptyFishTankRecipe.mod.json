@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "fish_tanks",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.GLASS_PANE"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.GLASS_PANE"
+      },
+      {
+        "value": "Blocks.GLASS_PANE"
+      },
+      {
+        "value": "Blocks.GLASS_PANE"
+      },
+      {
+        "value": "Blocks.GLASS_PANE"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:EmptyFishTank"
+    },
+    "name": "empty_fish_tank_recipe",
+    "namespace": "mod"
+  }
+}

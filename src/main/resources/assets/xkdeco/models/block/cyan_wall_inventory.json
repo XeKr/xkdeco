@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "xkdeco:blocks/cyan_bricks",
+    "particle": "xkdeco:blocks/cyan_bricks"
+  }
+}

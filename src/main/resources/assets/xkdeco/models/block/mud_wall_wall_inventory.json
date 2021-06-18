@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "xkdeco:blocks/mud_wall_block",
+    "particle": "xkdeco:blocks/mud_wall_block"
+  }
+}

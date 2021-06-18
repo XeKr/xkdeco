@@ -1,0 +1,71 @@
+{
+	"credit": "Made by XeKr with Blockbench",
+	"parent": "minecraft:block/block",
+	"textures": {
+		"4": "xk_whims:blocks/fish_tank_inner",
+		"particle": "xk_whims:blocks/fish_tank_bottom"
+	},
+	"elements": [
+		{
+			"from": [10, 2, 11],
+			"to": [14, 6, 11],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [12, 4, 11]},
+			"faces": {
+				"north": {"uv": [0, 12, 4, 16], "texture": "#4"},
+				"south": {"uv": [0, 12, 4, 16], "texture": "#4"}
+			}
+		},
+		{
+			"from": [12, 2, 9],
+			"to": [12, 6, 13],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [12, 4, 11]},
+			"faces": {
+				"east": {"uv": [0, 12, 4, 16], "texture": "#4"},
+				"west": {"uv": [0, 12, 4, 16], "texture": "#4"}
+			}
+		},
+		{
+			"from": [7.5, 2, 10],
+			"to": [11.5, 8, 10],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [9.5, 5, 10]},
+			"faces": {
+				"north": {"uv": [4, 10, 8, 16], "texture": "#4"},
+				"south": {"uv": [4, 10, 8, 16], "texture": "#4"}
+			}
+		},
+		{
+			"from": [9.5, 2, 8],
+			"to": [9.5, 8, 12],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [9.5, 5, 10]},
+			"faces": {
+				"east": {"uv": [4, 10, 8, 16], "texture": "#4"},
+				"west": {"uv": [4, 10, 8, 16], "texture": "#4"}
+			}
+		},
+		{
+			"from": [6, 3, 12],
+			"to": [9, 10, 12],
+			"rotation": {"angle": 45, "axis": "y", "origin": [7.5, 6.5, 12]},
+			"faces": {
+				"north": {"uv": [8, 1, 11, 8], "texture": "#4"},
+				"south": {"uv": [8, 1, 11, 8], "texture": "#4"}
+			}
+		},
+		{
+			"from": [7.5, 3, 10.5],
+			"to": [7.5, 10, 13.5],
+			"rotation": {"angle": 45, "axis": "y", "origin": [7.5, 6.5, 12]},
+			"faces": {
+				"east": {"uv": [8, 1, 11, 8], "texture": "#4"},
+				"west": {"uv": [8, 1, 11, 8], "texture": "#4"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "group",
+			"origin": [7.5, 6.5, 12],
+			"children": [0, 1, 2, 3, 4, 5]
+		}
+	]
+}

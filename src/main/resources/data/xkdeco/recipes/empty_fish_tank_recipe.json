@@ -1,0 +1,29 @@
+{
+  "group": "fish_tanks",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:glass_pane"
+    },
+    "2": {
+      "item": "minecraft:glass_pane"
+    },
+    "3": {
+      "item": "minecraft:glass_pane"
+    },
+    "4": {
+      "item": "minecraft:glass_pane"
+    },
+    "5": {
+      "item": "minecraft:glass_pane"
+    }
+  },
+  "result": {
+    "item": "xkdeco:empty_fish_tank",
+    "count": 1
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "xkdeco:blocks/ebony_planks",
+    "particle": "xkdeco:blocks/ebony_planks"
+  }
+}

@@ -10,7 +10,7 @@
     "textureBack": "",
     "renderType": 10,
     "customModelName": "Normal",
-    "rotationMode": 3,
+    "rotationMode": 1,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
     "itemTexture": "",
@@ -23,12 +23,21 @@
     "disableOffset": false,
     "boundingBoxes": [
       {
-        "mx": 0.0,
+        "mx": 6.0,
         "my": 0.0,
-        "mz": 0.0,
-        "Mx": 16.0,
+        "mz": 8.0,
+        "Mx": 10.0,
         "My": 16.0,
         "Mz": 16.0,
+        "subtract": false
+      },
+      {
+        "mx": 6.0,
+        "my": 8.0,
+        "mz": 0.0,
+        "Mx": 10.0,
+        "My": 16.0,
+        "Mz": 8.0,
         "subtract": false
       }
     ],

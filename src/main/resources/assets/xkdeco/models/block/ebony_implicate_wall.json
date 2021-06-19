@@ -1,0 +1,57 @@
+{
+	"credit": "Made by XeKr with Blockbench",
+	"parent": "block/template_fence_gate",
+	"textures": {
+		"particle": "xkdeco:blocks/ebony_implicate_side",
+		"texture": "xkdeco:blocks/ebony_implicate_side"
+	},
+	"elements": [
+		{
+			"from": [0, 14, 7],
+			"to": [16, 16, 9],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 2], "texture": "#texture"},
+				"east": {"uv": [0, 0, 2, 2], "texture": "#texture"},
+				"south": {"uv": [0, 0, 16, 2], "texture": "#texture"},
+				"west": {"uv": [0, 0, 2, 2], "texture": "#texture"},
+				"up": {"uv": [0, 0, 16, 2], "texture": "#texture"},
+				"down": {"uv": [0, 0, 16, 2], "texture": "#texture"}
+			}
+		},
+		{
+			"from": [0, 1, 7],
+			"to": [2, 14, 9],
+			"faces": {
+				"north": {"uv": [0, 2, 2, 15], "texture": "#texture"},
+				"east": {"uv": [0, 2, 2, 15], "texture": "#texture"},
+				"south": {"uv": [0, 2, 2, 15], "texture": "#texture"},
+				"west": {"uv": [0, 2, 2, 15], "texture": "#texture"},
+				"down": {"uv": [0, 0, 2, 2], "texture": "#texture"}
+			}
+		},
+		{
+			"from": [0, 0, 7],
+			"to": [1, 1, 9],
+			"faces": {
+				"north": {"uv": [0, 15, 1, 16], "texture": "#texture"},
+				"east": {"uv": [0, 14, 2, 15], "texture": "#texture"},
+				"south": {"uv": [0, 15, 1, 16], "texture": "#texture"},
+				"west": {"uv": [0, 14, 2, 15], "texture": "#texture"},
+				"up": {"uv": [0, 0, 1, 2], "texture": "#missing"},
+				"down": {"uv": [0, 0, 1, 2], "texture": "#texture"}
+			}
+		},
+		{
+			"from": [2, 2, 8],
+			"to": [16, 14, 8],
+			"faces": {
+				"north": {"uv": [16, 2, 2, 14], "texture": "#texture"},
+				"east": {"uv": [0, 0, 0, 12], "texture": "#missing"},
+				"south": {"uv": [2, 2, 16, 14], "texture": "#texture"},
+				"west": {"uv": [0, 0, 0, 12], "texture": "#missing"},
+				"up": {"uv": [0, 0, 14, 0], "texture": "#missing"},
+				"down": {"uv": [0, 0, 14, 0], "texture": "#missing"}
+			}
+		}
+	]
+}

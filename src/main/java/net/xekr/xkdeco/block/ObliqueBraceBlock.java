@@ -10,6 +10,11 @@ import net.minecraftforge.api.distmarker.OnlyIn;
 import net.minecraftforge.api.distmarker.Dist;
 
 import net.minecraft.world.IWorld;
+import net.minecraft.world.IBlockReader;
+import net.minecraft.util.math.vector.Vector3d;
+import net.minecraft.util.math.shapes.VoxelShapes;
+import net.minecraft.util.math.shapes.VoxelShape;
+import net.minecraft.util.math.shapes.ISelectionContext;
 import net.minecraft.util.math.BlockPos;
 import net.minecraft.util.Rotation;
 import net.minecraft.util.Mirror;
@@ -69,6 +74,26 @@ public class ObliqueBraceBlock extends XkdecoModElements.ModElement {
 		}
 
 		@Override
+		public VoxelShape getShape(BlockState state, IBlockReader world, BlockPos pos, ISelectionContext context) {
+			Vector3d offset = state.getOffset(world, pos);
+			switch ((Direction) state.get(FACING)) {
+				case SOUTH :
+				default :
+					return VoxelShapes.or(makeCuboidShape(10, 0, 8, 6, 16, 0), makeCuboidShape(10, 8, 16, 6, 16, 8)).withOffset(offset.x, offset.y,
+							offset.z);
+				case NORTH :
+					return VoxelShapes.or(makeCuboidShape(6, 0, 8, 10, 16, 16), makeCuboidShape(6, 8, 0, 10, 16, 8)).withOffset(offset.x, offset.y,
+							offset.z);
+				case EAST :
+					return VoxelShapes.or(makeCuboidShape(8, 0, 6, 0, 16, 10), makeCuboidShape(16, 8, 6, 8, 16, 10)).withOffset(offset.x, offset.y,
+							offset.z);
+				case WEST :
+					return VoxelShapes.or(makeCuboidShape(8, 0, 10, 16, 16, 6), makeCuboidShape(0, 8, 10, 8, 16, 6)).withOffset(offset.x, offset.y,
+							offset.z);
+			}
+		}
+
+		@Override
 		protected void fillStateContainer(StateContainer.Builder<Block, BlockState> builder) {
 			builder.add(FACING, WATERLOGGED);
 		}
@@ -84,9 +109,7 @@ public class ObliqueBraceBlock extends XkdecoModElements.ModElement {
 		@Override
 		public BlockState getStateForPlacement(BlockItemUseContext context) {
 			boolean flag = context.getWorld().getFluidState(context.getPos()).getFluid() == Fluids.WATER;;
-			if (context.getFace() == Direction.UP || context.getFace() == Direction.DOWN)
-				return this.getDefaultState().with(FACING, Direction.NORTH).with(WATERLOGGED, flag);
-			return this.getDefaultState().with(FACING, context.getFace()).with(WATERLOGGED, flag);
+			return this.getDefaultState().with(FACING, context.getPlacementHorizontalFacing().getOpposite()).with(WATERLOGGED, flag);
 		}
 
 		@Override

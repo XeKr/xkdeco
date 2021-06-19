@@ -10,6 +10,11 @@ import net.minecraftforge.api.distmarker.OnlyIn;
 import net.minecraftforge.api.distmarker.Dist;
 
 import net.minecraft.world.IWorld;
+import net.minecraft.world.IBlockReader;
+import net.minecraft.util.math.vector.Vector3d;
+import net.minecraft.util.math.shapes.VoxelShapes;
+import net.minecraft.util.math.shapes.VoxelShape;
+import net.minecraft.util.math.shapes.ISelectionContext;
 import net.minecraft.util.math.BlockPos;
 import net.minecraft.util.Rotation;
 import net.minecraft.util.Mirror;
@@ -66,6 +71,26 @@ public class ColumnHeadBlock extends XkdecoModElements.ModElement {
 					.setOpaque((bs, br, bp) -> false));
 			this.setDefaultState(this.stateContainer.getBaseState().with(FACING, Direction.NORTH).with(WATERLOGGED, false));
 			setRegistryName("column_head");
+		}
+
+		@Override
+		public VoxelShape getShape(BlockState state, IBlockReader world, BlockPos pos, ISelectionContext context) {
+			Vector3d offset = state.getOffset(world, pos);
+			switch ((Direction) state.get(FACING)) {
+				case SOUTH :
+				default :
+					return VoxelShapes.or(makeCuboidShape(12, 4, 10, 4, 12, 0)).withOffset(offset.x, offset.y, offset.z);
+				case NORTH :
+					return VoxelShapes.or(makeCuboidShape(4, 4, 6, 12, 12, 16)).withOffset(offset.x, offset.y, offset.z);
+				case EAST :
+					return VoxelShapes.or(makeCuboidShape(10, 4, 4, 0, 12, 12)).withOffset(offset.x, offset.y, offset.z);
+				case WEST :
+					return VoxelShapes.or(makeCuboidShape(6, 4, 12, 16, 12, 4)).withOffset(offset.x, offset.y, offset.z);
+				case UP :
+					return VoxelShapes.or(makeCuboidShape(4, 10, 4, 12, 0, 12)).withOffset(offset.x, offset.y, offset.z);
+				case DOWN :
+					return VoxelShapes.or(makeCuboidShape(4, 6, 12, 12, 16, 4)).withOffset(offset.x, offset.y, offset.z);
+			}
 		}
 
 		@Override

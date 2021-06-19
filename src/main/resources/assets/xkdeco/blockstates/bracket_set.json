@@ -91,34 +91,34 @@
       "y": 180
     },
     "facing=east,half=top,shape=inner_right": {
-      "model": "xkdeco:block/bracket_set_inner",
-      "y": 90
+      "model": "xkdeco:block/bracket_set_inner"
     },
     "facing=west,half=top,shape=inner_right": {
       "model": "xkdeco:block/bracket_set_inner",
-      "y": 270
+      "y": 180
     },
     "facing=south,half=top,shape=inner_right": {
       "model": "xkdeco:block/bracket_set_inner",
-      "y": 180
+      "y": 90
     },
     "facing=north,half=top,shape=inner_right": {
-      "model": "xkdeco:block/bracket_set_inner"
+      "model": "xkdeco:block/bracket_set_inner",
+      "y": 270
     },
     "facing=east,half=top,shape=inner_left": {
-      "model": "xkdeco:block/bracket_set_inner"
+      "model": "xkdeco:block/bracket_set_inner",
+      "y": 270
     },
     "facing=west,half=top,shape=inner_left": {
       "model": "xkdeco:block/bracket_set_inner",
-      "y": 180
+      "y": 90
     },
     "facing=south,half=top,shape=inner_left": {
-      "model": "xkdeco:block/bracket_set_inner",
-      "y": 90
+      "model": "xkdeco:block/bracket_set_inner"
     },
     "facing=north,half=top,shape=inner_left": {
       "model": "xkdeco:block/bracket_set_inner",
-      "y": 270
+      "y": 180
     },
     "facing=east,half=bottom,shape=outer_right": {
       "model": "xkdeco:block/bracket_set_outer"

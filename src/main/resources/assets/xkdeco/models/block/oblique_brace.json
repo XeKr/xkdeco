@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xkdeco:blocks/oblique_brace",
+    "up": "xkdeco:blocks/oblique_brace",
+    "north": "xkdeco:blocks/oblique_brace",
+    "east": "xkdeco:blocks/oblique_brace",
+    "south": "xkdeco:blocks/oblique_brace",
+    "west": "xkdeco:blocks/oblique_brace",
+    "particle": "xkdeco:blocks/oblique_brace"
+  }
+}

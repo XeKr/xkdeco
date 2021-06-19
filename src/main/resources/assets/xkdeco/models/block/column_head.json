@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xkdeco:blocks/column_head",
+    "up": "xkdeco:blocks/column_head",
+    "north": "xkdeco:blocks/column_head",
+    "east": "xkdeco:blocks/column_head",
+    "south": "xkdeco:blocks/column_head",
+    "west": "xkdeco:blocks/column_head",
+    "particle": "xkdeco:blocks/column_head"
+  }
+}

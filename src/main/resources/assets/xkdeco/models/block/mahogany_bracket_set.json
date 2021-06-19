@@ -1,0 +1,7 @@
+{
+	"parent": "xkdeco:block/bracket_set",
+	"textures": {
+		"particle": "xkdeco:blocks/mahogany_smooth",
+		"bottom": "xkdeco:blocks/mahogany_smooth"
+	}
+}

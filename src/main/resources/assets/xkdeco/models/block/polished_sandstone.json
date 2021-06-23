@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "xkdeco:blocks/polished_sandstone",
+    "particle": "xkdeco:blocks/polished_sandstone"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "xkdeco:paper_lantern"
+    },
+    "1": {
+      "item": "minecraft:red_dye"
+    }
+  },
+  "result": {
+    "item": "xkdeco:red_lantern",
+    "count": 1
+  }
+}

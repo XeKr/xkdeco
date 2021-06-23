@@ -1,0 +1,32 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "xkdeco:mud_wall_block"
+    },
+    "1": {
+      "item": "minecraft:oak_log"
+    },
+    "2": {
+      "item": "xkdeco:mud_wall_block"
+    },
+    "3": {
+      "item": "xkdeco:mud_wall_block"
+    },
+    "4": {
+      "item": "minecraft:oak_log"
+    },
+    "5": {
+      "item": "xkdeco:mud_wall_block"
+    }
+  },
+  "result": {
+    "item": "xkdeco:wood_column_mud_wall",
+    "count": 4
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:cyan_terracotta"
+    },
+    "1": {
+      "item": "minecraft:bricks"
+    },
+    "2": {
+      "item": "minecraft:bricks"
+    },
+    "3": {
+      "item": "minecraft:cyan_terracotta"
+    }
+  },
+  "result": {
+    "item": "xkdeco:cyan_bricks",
+    "count": 6
+  }
+}

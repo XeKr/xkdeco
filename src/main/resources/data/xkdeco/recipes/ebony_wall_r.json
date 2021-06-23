@@ -1,0 +1,32 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "xkdeco:ebony_log"
+    },
+    "1": {
+      "item": "xkdeco:ebony_log"
+    },
+    "2": {
+      "item": "xkdeco:ebony_log"
+    },
+    "3": {
+      "item": "xkdeco:ebony_log"
+    },
+    "4": {
+      "item": "xkdeco:ebony_log"
+    },
+    "5": {
+      "item": "xkdeco:ebony_log"
+    }
+  },
+  "result": {
+    "item": "xkdeco:ebony_wall",
+    "count": 8
+  }
+}

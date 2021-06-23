@@ -27,7 +27,7 @@ public class ColumnBaseBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:column_base")
 	public static final Block block = null;
 	public ColumnBaseBlock(XkdecoModElements instance) {
-		super(instance, 164);
+		super(instance, 93);
 	}
 
 	@Override

@@ -1,0 +1,32 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:lily_pad"
+    },
+    "1": {
+      "item": "minecraft:tropical_fish_bucket"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    },
+    "3": {
+      "item": "minecraft:white_glazed_terracotta"
+    },
+    "4": {
+      "item": "minecraft:white_glazed_terracotta"
+    },
+    "5": {
+      "item": "minecraft:white_glazed_terracotta"
+    }
+  },
+  "result": {
+    "item": "xkdeco:fish_bowl",
+    "count": 1
+  }
+}

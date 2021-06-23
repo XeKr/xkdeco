@@ -29,7 +29,7 @@ public class MahoganySlabBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:mahogany_slab")
 	public static final Block block = null;
 	public MahoganySlabBlock(XkdecoModElements instance) {
-		super(instance, 130);
+		super(instance, 70);
 	}
 
 	@Override

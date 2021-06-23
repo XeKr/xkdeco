@@ -1,0 +1,9 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "xkdeco:mud_wall_block"
+  },
+  "result": "xkdeco:mud_wall_slab"
+}

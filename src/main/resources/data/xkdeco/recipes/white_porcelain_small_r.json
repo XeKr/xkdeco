@@ -1,0 +1,9 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "minecraft:white_glazed_terracotta"
+  },
+  "result": "xkdeco:white_porcelain_small"
+}

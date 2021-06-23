@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xkdeco:blocks/stone_brick_pillar_top",
+    "up": "xkdeco:blocks/stone_brick_pillar_top",
+    "north": "xkdeco:blocks/stone_brick_pillar_side",
+    "east": "xkdeco:blocks/stone_brick_pillar_side",
+    "south": "xkdeco:blocks/stone_brick_pillar_side",
+    "west": "xkdeco:blocks/stone_brick_pillar_side",
+    "particle": "xkdeco:blocks/stone_brick_pillar_top"
+  }
+}

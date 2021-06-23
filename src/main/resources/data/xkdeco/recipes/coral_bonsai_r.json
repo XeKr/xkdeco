@@ -1,0 +1,26 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:dead_fire_coral"
+    },
+    "3": {
+      "item": "minecraft:white_terracotta"
+    },
+    "4": {
+      "item": "minecraft:white_terracotta"
+    },
+    "5": {
+      "item": "minecraft:white_terracotta"
+    }
+  },
+  "result": {
+    "item": "xkdeco:coral_bonsai",
+    "count": 1
+  }
+}

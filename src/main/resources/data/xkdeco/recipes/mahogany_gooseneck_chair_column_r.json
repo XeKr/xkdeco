@@ -1,0 +1,19 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "xkdeco:mahogany_gooseneck_chair"
+    },
+    "1": {
+      "item": "xkdeco:mahogany_wall"
+    }
+  },
+  "result": {
+    "item": "xkdeco:mahogany_gooseneck_chair_column",
+    "count": 1
+  }
+}

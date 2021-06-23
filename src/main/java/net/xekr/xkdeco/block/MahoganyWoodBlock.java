@@ -33,7 +33,7 @@ public class MahoganyWoodBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:mahogany_wood")
 	public static final Block block = null;
 	public MahoganyWoodBlock(XkdecoModElements instance) {
-		super(instance, 125);
+		super(instance, 66);
 	}
 
 	@Override

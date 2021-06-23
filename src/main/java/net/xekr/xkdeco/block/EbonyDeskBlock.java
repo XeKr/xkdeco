@@ -80,23 +80,21 @@ public class EbonyDeskBlock extends XkdecoModElements.ModElement {
 				case SOUTH :
 				default :
 					return VoxelShapes
-							.or(makeCuboidShape(24, 14, 16, -8, 16, 0), makeCuboidShape(20, 8, 16, -4, 14, 0), makeCuboidShape(20, 0, 16, 18, 8, 14),
-									makeCuboidShape(20, 0, 2, 18, 8, 0), makeCuboidShape(-2, 0, 2, -4, 8, 0), makeCuboidShape(-2, 0, 16, -4, 8, 14))
+							.or(makeCuboidShape(16, 8, 16, 0, 16, 0), makeCuboidShape(2, 0, 16, 0, 8, 14), makeCuboidShape(2, 0, 2, 0, 8, 0),
+									makeCuboidShape(16, 0, 2, 14, 8, 0), makeCuboidShape(16, 0, 16, 14, 8, 14))
 							.withOffset(offset.x, offset.y, offset.z);
 				case NORTH :
-					return VoxelShapes
-							.or(makeCuboidShape(-8, 14, 0, 24, 16, 16), makeCuboidShape(-4, 8, 0, 20, 14, 16), makeCuboidShape(-4, 0, 0, -2, 8, 2),
-									makeCuboidShape(-4, 0, 14, -2, 8, 16), makeCuboidShape(18, 0, 14, 20, 8, 16), makeCuboidShape(18, 0, 0, 20, 8, 2))
+					return VoxelShapes.or(makeCuboidShape(0, 8, 0, 16, 16, 16), makeCuboidShape(14, 0, 0, 16, 8, 2),
+							makeCuboidShape(14, 0, 14, 16, 8, 16), makeCuboidShape(0, 0, 14, 2, 8, 16), makeCuboidShape(0, 0, 0, 2, 8, 2))
 							.withOffset(offset.x, offset.y, offset.z);
 				case EAST :
-					return VoxelShapes
-							.or(makeCuboidShape(16, 14, -8, 0, 16, 24), makeCuboidShape(16, 8, -4, 0, 14, 20), makeCuboidShape(16, 0, -4, 14, 8, -2),
-									makeCuboidShape(2, 0, -4, 0, 8, -2), makeCuboidShape(2, 0, 18, 0, 8, 20), makeCuboidShape(16, 0, 18, 14, 8, 20))
+					return VoxelShapes.or(makeCuboidShape(16, 8, 0, 0, 16, 16), makeCuboidShape(16, 0, 14, 14, 8, 16),
+							makeCuboidShape(2, 0, 14, 0, 8, 16), makeCuboidShape(2, 0, 0, 0, 8, 2), makeCuboidShape(16, 0, 0, 14, 8, 2))
 							.withOffset(offset.x, offset.y, offset.z);
 				case WEST :
 					return VoxelShapes
-							.or(makeCuboidShape(0, 14, 24, 16, 16, -8), makeCuboidShape(0, 8, 20, 16, 14, -4), makeCuboidShape(0, 0, 20, 2, 8, 18),
-									makeCuboidShape(14, 0, 20, 16, 8, 18), makeCuboidShape(14, 0, -2, 16, 8, -4), makeCuboidShape(0, 0, -2, 2, 8, -4))
+							.or(makeCuboidShape(0, 8, 16, 16, 16, 0), makeCuboidShape(0, 0, 2, 2, 8, 0), makeCuboidShape(14, 0, 2, 16, 8, 0),
+									makeCuboidShape(14, 0, 16, 16, 8, 14), makeCuboidShape(0, 0, 16, 2, 8, 14))
 							.withOffset(offset.x, offset.y, offset.z);
 			}
 		}

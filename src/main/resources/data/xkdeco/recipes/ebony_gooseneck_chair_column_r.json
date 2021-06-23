@@ -1,0 +1,19 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "xkdeco:ebony_gooseneck_chair"
+    },
+    "1": {
+      "item": "xkdeco:ebony_wall"
+    }
+  },
+  "result": {
+    "item": "xkdeco:ebony_gooseneck_chair_column",
+    "count": 1
+  }
+}

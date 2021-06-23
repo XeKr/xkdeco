@@ -1,0 +1,32 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "xkdeco:mahogany_slab"
+    },
+    "1": {
+      "item": "xkdeco:mahogany_log"
+    },
+    "2": {
+      "item": "xkdeco:mahogany_slab"
+    },
+    "3": {
+      "item": "xkdeco:mahogany_slab"
+    },
+    "4": {
+      "item": "xkdeco:mahogany_log"
+    },
+    "5": {
+      "item": "xkdeco:mahogany_slab"
+    }
+  },
+  "result": {
+    "item": "xkdeco:mahogany_column_hollow_wall",
+    "count": 4
+  }
+}

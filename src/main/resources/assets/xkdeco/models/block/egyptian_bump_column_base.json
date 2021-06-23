@@ -1,0 +1,9 @@
+{
+	"parent": "xkdeco:block/egyptian_column_base",
+	"textures": {
+		"particle": "xkdeco:blocks/egyptian_bump_column_base",
+		"side": "xkdeco:blocks/egyptian_bump_column_base",
+		"top": "xkdeco:blocks/egyptian_bump_column_top",
+		"bottom": "xkdeco:blocks/polished_sandstone"
+	}
+}

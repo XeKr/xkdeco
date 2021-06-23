@@ -28,7 +28,7 @@ public class MahoganyStairsBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:mahogany_stairs")
 	public static final Block block = null;
 	public MahoganyStairsBlock(XkdecoModElements instance) {
-		super(instance, 129);
+		super(instance, 69);
 	}
 
 	@Override

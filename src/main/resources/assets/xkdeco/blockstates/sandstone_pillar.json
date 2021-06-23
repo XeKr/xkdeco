@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "facing=south": {
+      "model": "xkdeco:block/sandstone_pillar"
+    },
+    "facing=north": {
+      "model": "xkdeco:block/sandstone_pillar"
+    },
+    "facing=east": {
+      "model": "xkdeco:block/sandstone_pillar",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "xkdeco:block/sandstone_pillar",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "xkdeco:block/sandstone_pillar",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "xkdeco:block/sandstone_pillar",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

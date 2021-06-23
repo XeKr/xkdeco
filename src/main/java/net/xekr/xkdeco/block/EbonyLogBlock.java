@@ -33,7 +33,7 @@ public class EbonyLogBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:ebony_log")
 	public static final Block block = null;
 	public EbonyLogBlock(XkdecoModElements instance) {
-		super(instance, 105);
+		super(instance, 58);
 	}
 
 	@Override

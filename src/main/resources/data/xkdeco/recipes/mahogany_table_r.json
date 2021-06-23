@@ -1,0 +1,9 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "xkdeco:mahogany_planks"
+  },
+  "result": "xkdeco:mahogany_table"
+}

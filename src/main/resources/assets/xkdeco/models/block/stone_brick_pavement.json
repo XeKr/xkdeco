@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "xkdeco:blocks/stone_brick_pavement",
+    "particle": "xkdeco:blocks/stone_brick_pavement"
+  }
+}

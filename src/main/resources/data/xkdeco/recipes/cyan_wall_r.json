@@ -1,0 +1,9 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "xkdeco:cyan_bricks"
+  },
+  "result": "xkdeco:cyan_wall"
+}

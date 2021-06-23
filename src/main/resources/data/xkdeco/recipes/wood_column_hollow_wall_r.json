@@ -1,0 +1,32 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:oak_slab"
+    },
+    "1": {
+      "item": "minecraft:oak_log"
+    },
+    "2": {
+      "item": "minecraft:oak_slab"
+    },
+    "3": {
+      "item": "minecraft:oak_slab"
+    },
+    "4": {
+      "item": "minecraft:oak_log"
+    },
+    "5": {
+      "item": "minecraft:oak_slab"
+    }
+  },
+  "result": {
+    "item": "xkdeco:wood_column_hollow_wall",
+    "count": 4
+  }
+}

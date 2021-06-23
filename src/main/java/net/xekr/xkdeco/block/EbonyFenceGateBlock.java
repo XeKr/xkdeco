@@ -33,7 +33,7 @@ public class EbonyFenceGateBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:ebony_fence_gate")
 	public static final Block block = null;
 	public EbonyFenceGateBlock(XkdecoModElements instance) {
-		super(instance, 111);
+		super(instance, 63);
 	}
 
 	@Override

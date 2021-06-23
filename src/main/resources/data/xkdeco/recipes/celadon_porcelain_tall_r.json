@@ -1,0 +1,9 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "minecraft:lime_glazed_terracotta"
+  },
+  "result": "xkdeco:celadon_porcelain_tall"
+}

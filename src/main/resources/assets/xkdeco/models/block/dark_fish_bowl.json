@@ -1,0 +1,11 @@
+{
+  "parent": "xkdeco:block/fish_bowl",
+	"textures": {
+		"particle": "xkdeco:blocks/dark_fish_bowl_top",
+		"top": "xkdeco:blocks/dark_fish_bowl_top",
+		"bottom": "xkdeco:blocks/dark_fish_bowl_botom",
+		"fish": "xkdeco:blocks/fish_bowl_fish",
+		"inner": "xkdeco:blocks/fish_bowl_inner",
+		"side": "xkdeco:blocks/dark_fish_bowl_side"
+	}
+}

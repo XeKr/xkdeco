@@ -25,7 +25,7 @@ public class ColumnBaseLightBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:column_base_light")
 	public static final Block block = null;
 	public ColumnBaseLightBlock(XkdecoModElements instance) {
-		super(instance, 166);
+		super(instance, 95);
 	}
 
 	@Override

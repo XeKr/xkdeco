@@ -46,7 +46,7 @@ public class CyanWallBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:cyan_wall")
 	public static final Block block = null;
 	public CyanWallBlock(XkdecoModElements instance) {
-		super(instance, 176);
+		super(instance, 105);
 	}
 
 	@Override

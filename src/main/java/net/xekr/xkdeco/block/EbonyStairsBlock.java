@@ -28,7 +28,7 @@ public class EbonyStairsBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:ebony_stairs")
 	public static final Block block = null;
 	public EbonyStairsBlock(XkdecoModElements instance) {
-		super(instance, 108);
+		super(instance, 60);
 	}
 
 	@Override

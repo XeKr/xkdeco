@@ -13,7 +13,7 @@ import net.minecraft.item.ItemGroup;
 @XkdecoModElements.ModElement.Tag
 public class XkDecoBasicItemGroup extends XkdecoModElements.ModElement {
 	public XkDecoBasicItemGroup(XkdecoModElements instance) {
-		super(instance, 90);
+		super(instance, 234);
 	}
 
 	@Override

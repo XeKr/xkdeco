@@ -13,7 +13,7 @@ import net.minecraft.item.ItemGroup;
 @XkdecoModElements.ModElement.Tag
 public class XkDecoOrientalItemGroup extends XkdecoModElements.ModElement {
 	public XkDecoOrientalItemGroup(XkdecoModElements instance) {
-		super(instance, 235);
+		super(instance, 322);
 	}
 
 	@Override

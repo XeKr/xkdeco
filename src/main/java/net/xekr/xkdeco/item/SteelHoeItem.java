@@ -1,7 +1,7 @@
 
 package net.xekr.xkdeco.item;
 
-import net.xekr.xkdeco.itemgroup.XkDecoBasicItemGroup;
+import net.xekr.xkdeco.itemgroup.XkDecoPunkItemGroup;
 import net.xekr.xkdeco.XkdecoModElements;
 
 import net.minecraftforge.registries.ObjectHolder;
@@ -17,7 +17,7 @@ public class SteelHoeItem extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:steel_hoe")
 	public static final Item block = null;
 	public SteelHoeItem(XkdecoModElements instance) {
-		super(instance, 5);
+		super(instance, 4);
 	}
 
 	@Override
@@ -46,7 +46,7 @@ public class SteelHoeItem extends XkdecoModElements.ModElement {
 			public Ingredient getRepairMaterial() {
 				return Ingredient.fromStacks(new ItemStack(SteelIngotItem.block, (int) (1)));
 			}
-		}, 0, 0f, new Item.Properties().group(XkDecoBasicItemGroup.tab)) {
+		}, 0, 0f, new Item.Properties().group(XkDecoPunkItemGroup.tab)) {
 		}.setRegistryName("steel_hoe"));
 	}
 }

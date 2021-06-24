@@ -1,0 +1,9 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "xkdeco:stone_brick_pillar"
+  },
+  "result": "xkdeco:roman_ionic_column_base"
+}

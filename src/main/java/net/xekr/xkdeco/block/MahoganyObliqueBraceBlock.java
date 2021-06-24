@@ -48,7 +48,7 @@ public class MahoganyObliqueBraceBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:mahogany_oblique_brace")
 	public static final Block block = null;
 	public MahoganyObliqueBraceBlock(XkdecoModElements instance) {
-		super(instance, 201);
+		super(instance, 132);
 	}
 
 	@Override

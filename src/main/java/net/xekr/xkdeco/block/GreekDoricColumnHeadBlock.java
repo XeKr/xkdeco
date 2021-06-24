@@ -45,7 +45,7 @@ public class GreekDoricColumnHeadBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:greek_doric_column_head")
 	public static final Block block = null;
 	public GreekDoricColumnHeadBlock(XkdecoModElements instance) {
-		super(instance, 194);
+		super(instance, 198);
 	}
 
 	@Override

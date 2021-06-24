@@ -1,22 +1,9 @@
 {
   "group": "yellow_tiles",
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "012"
-  ],
-  "key": {
-    "0": {
-      "item": "xkdeco:yellow_tiles"
-    },
-    "1": {
-      "item": "xkdeco:yellow_tiles"
-    },
-    "2": {
-      "item": "xkdeco:yellow_tiles"
-    }
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "xkdeco:yellow_tiles"
   },
-  "result": {
-    "item": "xkdeco:yellow_tile_slab",
-    "count": 6
-  }
+  "result": "xkdeco:yellow_tile_slab"
 }

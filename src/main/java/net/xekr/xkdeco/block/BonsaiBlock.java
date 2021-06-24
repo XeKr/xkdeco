@@ -48,7 +48,7 @@ public class BonsaiBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:bonsai")
 	public static final Block block = null;
 	public BonsaiBlock(XkdecoModElements instance) {
-		super(instance, 231);
+		super(instance, 162);
 	}
 
 	@Override

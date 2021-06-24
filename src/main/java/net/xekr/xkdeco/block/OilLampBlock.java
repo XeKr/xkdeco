@@ -48,7 +48,7 @@ public class OilLampBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:oil_lamp")
 	public static final Block block = null;
 	public OilLampBlock(XkdecoModElements instance) {
-		super(instance, 237);
+		super(instance, 168);
 	}
 
 	@Override

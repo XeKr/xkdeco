@@ -49,7 +49,7 @@ public class MahoganyShelfBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:mahogany_shelf")
 	public static final Block block = null;
 	public MahoganyShelfBlock(XkdecoModElements instance) {
-		super(instance, 218);
+		super(instance, 149);
 	}
 
 	@Override

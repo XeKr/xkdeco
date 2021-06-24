@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "xkdeco:blocks/maya_polished_stonebricks",
+    "top": "xkdeco:blocks/maya_polished_stonebricks",
+    "side": "xkdeco:blocks/maya_polished_stonebricks_slab"
+  }
+}

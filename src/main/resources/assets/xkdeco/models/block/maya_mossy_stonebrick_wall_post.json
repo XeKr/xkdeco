@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "xkdeco:blocks/maya_mossy_stonebricks",
+    "particle": "xkdeco:blocks/maya_mossy_stonebricks"
+  }
+}

@@ -1,0 +1,52 @@
+{
+	"credit": "Made by XeKr with Blockbench",
+	"parent": "block/template_wall_side",
+	"textures": {
+		"particle": "xkdeco:blocks/steel_column_wall",
+		"wall": "xkdeco:blocks/steel_column_wall",
+		"side": "xkdeco:blocks/steel_column_beam"
+	},
+	"elements": [
+		{
+			"from": [5, 0, 0],
+			"to": [11, 3, 8],
+			"faces": {
+				"north": {"uv": [5, 13, 11, 16], "texture": "#wall"},
+				"east": {"uv": [8, 13, 16, 16], "texture": "#side"},
+				"west": {"uv": [0, 13, 8, 16], "texture": "#side"},
+				"up": {"uv": [5, 0, 11, 8], "texture": "#wall"},
+				"down": {"uv": [5, 8, 11, 16], "texture": "#wall"}
+			}
+		},
+		{
+			"from": [5, 11, 0],
+			"to": [11, 14, 8],
+			"faces": {
+				"north": {"uv": [5, 2, 11, 5], "texture": "#wall"},
+				"east": {"uv": [8, 2, 16, 5], "texture": "#side"},
+				"west": {"uv": [0, 2, 8, 5], "texture": "#side"},
+				"down": {"uv": [5, 8, 11, 16], "texture": "#wall"}
+			}
+		},
+		{
+			"from": [3, 14, 0],
+			"to": [13, 16, 8],
+			"faces": {
+				"north": {"uv": [3, 0, 13, 2], "texture": "#wall"},
+				"east": {"uv": [8, 0, 16, 2], "texture": "#side"},
+				"west": {"uv": [0, 0, 8, 2], "texture": "#side"},
+				"up": {"uv": [3, 0, 13, 8], "texture": "#wall"},
+				"down": {"uv": [3, 8, 13, 16], "texture": "#wall"}
+			}
+		},
+		{
+			"from": [7, 3, 0],
+			"to": [9, 11, 8],
+			"faces": {
+				"north": {"uv": [7, 5, 9, 13], "texture": "#wall"},
+				"east": {"uv": [8, 5, 16, 13], "texture": "#side"},
+				"west": {"uv": [0, 5, 8, 13], "texture": "#side"}
+			}
+		}
+	]
+}

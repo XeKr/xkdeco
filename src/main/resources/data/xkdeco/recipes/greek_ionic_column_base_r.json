@@ -1,0 +1,9 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "minecraft:quartz_pillar"
+  },
+  "result": "xkdeco:greek_ionic_column_base"
+}

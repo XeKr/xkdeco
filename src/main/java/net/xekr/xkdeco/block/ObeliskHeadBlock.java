@@ -45,7 +45,7 @@ public class ObeliskHeadBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:obelisk_head")
 	public static final Block block = null;
 	public ObeliskHeadBlock(XkdecoModElements instance) {
-		super(instance, 191);
+		super(instance, 194);
 	}
 
 	@Override

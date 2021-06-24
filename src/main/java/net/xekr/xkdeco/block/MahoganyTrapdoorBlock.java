@@ -32,7 +32,7 @@ public class MahoganyTrapdoorBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:mahogany_trapdoor")
 	public static final Block block = null;
 	public MahoganyTrapdoorBlock(XkdecoModElements instance) {
-		super(instance, 143);
+		super(instance, 78);
 	}
 
 	@Override

@@ -11,7 +11,7 @@
     "enableBoots": true,
     "textureBoots": "steel_boots",
     "creativeTab": {
-      "value": "CUSTOM:XkDecoBasic"
+      "value": "CUSTOM:XkDecoPunk"
     },
     "armorTextureFile": "steel",
     "helmetName": "Steel Helmet",

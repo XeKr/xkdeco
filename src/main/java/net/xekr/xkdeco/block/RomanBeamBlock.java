@@ -31,7 +31,7 @@ public class RomanBeamBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:roman_moulding")
 	public static final Block block = null;
 	public RomanBeamBlock(XkdecoModElements instance) {
-		super(instance, 339);
+		super(instance, 222);
 	}
 
 	@Override

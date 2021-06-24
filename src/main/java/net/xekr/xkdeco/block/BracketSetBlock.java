@@ -30,7 +30,7 @@ public class BracketSetBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:bracket_set")
 	public static final Block block = null;
 	public BracketSetBlock(XkdecoModElements instance) {
-		super(instance, 184);
+		super(instance, 115);
 	}
 
 	@Override

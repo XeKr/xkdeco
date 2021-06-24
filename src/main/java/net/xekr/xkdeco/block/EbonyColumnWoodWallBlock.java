@@ -45,7 +45,7 @@ public class EbonyColumnWoodWallBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:ebony_column_wood_wall")
 	public static final Block block = null;
 	public EbonyColumnWoodWallBlock(XkdecoModElements instance) {
-		super(instance, 146);
+		super(instance, 79);
 	}
 
 	@Override

@@ -33,7 +33,7 @@ public class MahoganyLogBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:mahogany_log")
 	public static final Block block = null;
 	public MahoganyLogBlock(XkdecoModElements instance) {
-		super(instance, 67);
+		super(instance, 71);
 	}
 
 	@Override

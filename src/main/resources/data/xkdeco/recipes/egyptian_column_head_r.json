@@ -1,0 +1,9 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "xkdeco:sandstone_pillar"
+  },
+  "result": "xkdeco:egyptian_column_head"
+}

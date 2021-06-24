@@ -32,7 +32,7 @@ public class MahoganyFlipWindowBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:mahogany_flip_window")
 	public static final Block block = null;
 	public MahoganyFlipWindowBlock(XkdecoModElements instance) {
-		super(instance, 160);
+		super(instance, 93);
 	}
 
 	@Override

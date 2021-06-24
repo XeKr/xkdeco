@@ -24,7 +24,7 @@ public class MudWallBlockBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:mud_wall_block")
 	public static final Block block = null;
 	public MudWallBlockBlock(XkdecoModElements instance) {
-		super(instance, 99);
+		super(instance, 103);
 	}
 
 	@Override

@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_wall_side_tall",
+  "textures": {
+    "wall": "xkdeco:blocks/green_roof_ridge",
+    "particle": "xkdeco:blocks/green_roof_ridge"
+  }
+}

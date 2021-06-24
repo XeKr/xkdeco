@@ -48,7 +48,7 @@ public class EbonyChairBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:ebony_chair")
 	public static final Block block = null;
 	public EbonyChairBlock(XkdecoModElements instance) {
-		super(instance, 208);
+		super(instance, 139);
 	}
 
 	@Override

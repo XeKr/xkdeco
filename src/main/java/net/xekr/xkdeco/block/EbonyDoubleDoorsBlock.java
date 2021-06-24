@@ -32,7 +32,7 @@ public class EbonyDoubleDoorsBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:ebony_double_doors")
 	public static final Block block = null;
 	public EbonyDoubleDoorsBlock(XkdecoModElements instance) {
-		super(instance, 155);
+		super(instance, 88);
 	}
 
 	@Override

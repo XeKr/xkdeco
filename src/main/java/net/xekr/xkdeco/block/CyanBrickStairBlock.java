@@ -26,7 +26,7 @@ public class CyanBrickStairBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:cyan_brick_stair")
 	public static final Block block = null;
 	public CyanBrickStairBlock(XkdecoModElements instance) {
-		super(instance, 104);
+		super(instance, 108);
 	}
 
 	@Override

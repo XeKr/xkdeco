@@ -46,7 +46,7 @@ public class BlackRoofRidgeBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:black_roof_ridge")
 	public static final Block block = null;
 	public BlackRoofRidgeBlock(XkdecoModElements instance) {
-		super(instance, 38);
+		super(instance, 42);
 	}
 
 	@Override

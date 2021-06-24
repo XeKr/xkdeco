@@ -27,7 +27,7 @@ public class MahoganyPlanksBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:mahogany_planks")
 	public static final Block block = null;
 	public MahoganyPlanksBlock(XkdecoModElements instance) {
-		super(instance, 68);
+		super(instance, 72);
 	}
 
 	@Override

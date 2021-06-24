@@ -1,0 +1,21 @@
+{
+	"credit": "Made by XeKr with Blockbench",
+	"parent": "block/template_wall_side",
+	"textures": {
+		"particle": "xkdeco:blocks/steel_column_wall",
+		"wall": "xkdeco:blocks/steel_column_wall"
+	},
+	"elements": [
+		{
+			"from": [6, 0, 0],
+			"to": [10, 16, 8],
+			"faces": {
+				"north": {"uv": [6, 0, 10, 16], "texture": "#wall"},
+				"east": {"uv": [8, 0, 16, 16], "texture": "#wall"},
+				"west": {"uv": [0, 0, 8, 16], "texture": "#wall"},
+				"up": {"uv": [6, 0, 10, 8], "texture": "#wall"},
+				"down": {"uv": [6, 8, 10, 16], "texture": "#wall"}
+			}
+		}
+	]
+}

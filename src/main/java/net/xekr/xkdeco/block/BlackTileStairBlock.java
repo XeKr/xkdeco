@@ -26,7 +26,7 @@ public class BlackTileStairBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:black_tile_stair")
 	public static final Block block = null;
 	public BlackTileStairBlock(XkdecoModElements instance) {
-		super(instance, 23);
+		super(instance, 27);
 	}
 
 	@Override

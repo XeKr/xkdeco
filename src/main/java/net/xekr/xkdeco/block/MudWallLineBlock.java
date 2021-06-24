@@ -30,7 +30,7 @@ public class MudWallLineBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:mud_wall_line")
 	public static final Block block = null;
 	public MudWallLineBlock(XkdecoModElements instance) {
-		super(instance, 101);
+		super(instance, 105);
 	}
 
 	@Override

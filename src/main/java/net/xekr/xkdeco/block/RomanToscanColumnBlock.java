@@ -45,7 +45,7 @@ public class RomanToscanColumnBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:roman_toscan_column")
 	public static final Block block = null;
 	public RomanToscanColumnBlock(XkdecoModElements instance) {
-		super(instance, 326);
+		super(instance, 209);
 	}
 
 	@Override

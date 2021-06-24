@@ -30,7 +30,7 @@ public class EbonyGooseneckChairColumnBlock extends XkdecoModElements.ModElement
 	@ObjectHolder("xkdeco:ebony_gooseneck_chair_column")
 	public static final Block block = null;
 	public EbonyGooseneckChairColumnBlock(XkdecoModElements instance) {
-		super(instance, 204);
+		super(instance, 135);
 	}
 
 	@Override

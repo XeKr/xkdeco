@@ -30,7 +30,7 @@ public class BlackRoofSlowBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:black_roof_slow")
 	public static final Block block = null;
 	public BlackRoofSlowBlock(XkdecoModElements instance) {
-		super(instance, 32);
+		super(instance, 36);
 	}
 
 	@Override

@@ -32,7 +32,7 @@ public class EbonyWindowBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:ebony_window")
 	public static final Block block = null;
 	public EbonyWindowBlock(XkdecoModElements instance) {
-		super(instance, 156);
+		super(instance, 89);
 	}
 
 	@Override

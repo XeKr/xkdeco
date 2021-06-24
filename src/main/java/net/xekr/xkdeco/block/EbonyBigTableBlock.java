@@ -44,7 +44,7 @@ public class EbonyBigTableBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:ebony_big_table")
 	public static final Block block = null;
 	public EbonyBigTableBlock(XkdecoModElements instance) {
-		super(instance, 205);
+		super(instance, 136);
 	}
 
 	@Override

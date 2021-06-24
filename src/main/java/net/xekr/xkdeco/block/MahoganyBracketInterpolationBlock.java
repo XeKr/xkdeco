@@ -30,7 +30,7 @@ public class MahoganyBracketInterpolationBlock extends XkdecoModElements.ModElem
 	@ObjectHolder("xkdeco:mahogany_bracket_interpolation")
 	public static final Block block = null;
 	public MahoganyBracketInterpolationBlock(XkdecoModElements instance) {
-		super(instance, 191);
+		super(instance, 122);
 	}
 
 	@Override

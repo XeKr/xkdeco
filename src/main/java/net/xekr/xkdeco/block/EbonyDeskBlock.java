@@ -48,7 +48,7 @@ public class EbonyDeskBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:ebony_desk")
 	public static final Block block = null;
 	public EbonyDeskBlock(XkdecoModElements instance) {
-		super(instance, 207);
+		super(instance, 138);
 	}
 
 	@Override

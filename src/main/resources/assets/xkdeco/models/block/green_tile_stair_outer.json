@@ -1,0 +1,8 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "xkdeco:blocks/green_tiles",
+    "top": "xkdeco:blocks/green_tiles",
+    "side": "xkdeco:blocks/green_tiles"
+  }
+}

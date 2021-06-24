@@ -48,7 +48,7 @@ public class ObliqueBraceBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:oblique_brace")
 	public static final Block block = null;
 	public ObliqueBraceBlock(XkdecoModElements instance) {
-		super(instance, 195);
+		super(instance, 126);
 	}
 
 	@Override

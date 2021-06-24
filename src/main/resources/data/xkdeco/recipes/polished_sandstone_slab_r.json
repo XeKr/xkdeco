@@ -1,0 +1,9 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "xkdeco:polished_sandstone"
+  },
+  "result": "xkdeco:polished_sandstone_slab"
+}

@@ -45,7 +45,7 @@ public class GreekCorinthianColumnBaseBlock extends XkdecoModElements.ModElement
 	@ObjectHolder("xkdeco:greek_corinthian_column_base")
 	public static final Block block = null;
 	public GreekCorinthianColumnBaseBlock(XkdecoModElements instance) {
-		super(instance, 198);
+		super(instance, 202);
 	}
 
 	@Override

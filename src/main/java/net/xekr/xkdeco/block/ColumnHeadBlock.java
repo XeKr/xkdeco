@@ -48,7 +48,7 @@ public class ColumnHeadBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:column_head")
 	public static final Block block = null;
 	public ColumnHeadBlock(XkdecoModElements instance) {
-		super(instance, 194);
+		super(instance, 125);
 	}
 
 	@Override

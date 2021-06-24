@@ -31,7 +31,7 @@ public class StoneBrickPillarBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:stone_brick_pillar")
 	public static final Block block = null;
 	public StoneBrickPillarBlock(XkdecoModElements instance) {
-		super(instance, 322);
+		super(instance, 205);
 	}
 
 	@Override

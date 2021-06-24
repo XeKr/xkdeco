@@ -45,7 +45,7 @@ public class GreekCorinthianColumnHeadBlock extends XkdecoModElements.ModElement
 	@ObjectHolder("xkdeco:greek_corinthian_column_head")
 	public static final Block block = null;
 	public GreekCorinthianColumnHeadBlock(XkdecoModElements instance) {
-		super(instance, 199);
+		super(instance, 203);
 	}
 
 	@Override

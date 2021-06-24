@@ -25,7 +25,7 @@ public class StoneBrickPavementBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:stone_brick_pavement")
 	public static final Block block = null;
 	public StoneBrickPavementBlock(XkdecoModElements instance) {
-		super(instance, 323);
+		super(instance, 206);
 	}
 
 	@Override

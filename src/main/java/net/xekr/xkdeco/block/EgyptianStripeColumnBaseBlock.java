@@ -45,7 +45,7 @@ public class EgyptianStripeColumnBaseBlock extends XkdecoModElements.ModElement 
 	@ObjectHolder("xkdeco:egyptian_stripe_column_base")
 	public static final Block block = null;
 	public EgyptianStripeColumnBaseBlock(XkdecoModElements instance) {
-		super(instance, 183);
+		super(instance, 187);
 	}
 
 	@Override

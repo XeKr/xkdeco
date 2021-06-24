@@ -45,7 +45,7 @@ public class WoodColumnMudWallBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:wood_column_mud_wall")
 	public static final Block block = null;
 	public WoodColumnMudWallBlock(XkdecoModElements instance) {
-		super(instance, 153);
+		super(instance, 86);
 	}
 
 	@Override

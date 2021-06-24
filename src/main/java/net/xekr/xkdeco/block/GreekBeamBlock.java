@@ -31,7 +31,7 @@ public class GreekBeamBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:greek_moulding")
 	public static final Block block = null;
 	public GreekBeamBlock(XkdecoModElements instance) {
-		super(instance, 200);
+		super(instance, 204);
 	}
 
 	@Override

@@ -30,7 +30,7 @@ public class MahoganyBracketInterpolationHollowBlock extends XkdecoModElements.M
 	@ObjectHolder("xkdeco:mahogany_bracket_interpolation_hollow")
 	public static final Block block = null;
 	public MahoganyBracketInterpolationHollowBlock(XkdecoModElements instance) {
-		super(instance, 192);
+		super(instance, 123);
 	}
 
 	@Override

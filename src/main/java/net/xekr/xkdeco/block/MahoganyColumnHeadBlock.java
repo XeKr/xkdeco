@@ -48,7 +48,7 @@ public class MahoganyColumnHeadBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:mahogany_column_head")
 	public static final Block block = null;
 	public MahoganyColumnHeadBlock(XkdecoModElements instance) {
-		super(instance, 200);
+		super(instance, 131);
 	}
 
 	@Override

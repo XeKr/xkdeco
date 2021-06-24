@@ -48,7 +48,7 @@ public class TeaWareBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:tea_ware")
 	public static final Block block = null;
 	public TeaWareBlock(XkdecoModElements instance) {
-		super(instance, 233);
+		super(instance, 164);
 	}
 
 	@Override

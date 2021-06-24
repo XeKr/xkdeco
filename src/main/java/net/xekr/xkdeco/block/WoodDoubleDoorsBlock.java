@@ -32,7 +32,7 @@ public class WoodDoubleDoorsBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:wood_double_doors")
 	public static final Block block = null;
 	public WoodDoubleDoorsBlock(XkdecoModElements instance) {
-		super(instance, 161);
+		super(instance, 94);
 	}
 
 	@Override

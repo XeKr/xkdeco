@@ -30,7 +30,7 @@ public class BlackRoofSlowSideBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:black_roof_slow_side")
 	public static final Block block = null;
 	public BlackRoofSlowSideBlock(XkdecoModElements instance) {
-		super(instance, 33);
+		super(instance, 37);
 	}
 
 	@Override

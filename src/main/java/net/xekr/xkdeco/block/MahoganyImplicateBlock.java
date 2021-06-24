@@ -32,7 +32,7 @@ public class MahoganyImplicateBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:mahogany_implicate")
 	public static final Block block = null;
 	public MahoganyImplicateBlock(XkdecoModElements instance) {
-		super(instance, 199);
+		super(instance, 130);
 	}
 
 	@Override

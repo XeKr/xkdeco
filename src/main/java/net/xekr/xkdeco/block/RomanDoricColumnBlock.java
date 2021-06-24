@@ -45,7 +45,7 @@ public class RomanDoricColumnBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:roman_doric_column")
 	public static final Block block = null;
 	public RomanDoricColumnBlock(XkdecoModElements instance) {
-		super(instance, 329);
+		super(instance, 212);
 	}
 
 	@Override

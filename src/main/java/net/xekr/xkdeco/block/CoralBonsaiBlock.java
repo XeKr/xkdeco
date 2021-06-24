@@ -48,7 +48,7 @@ public class CoralBonsaiBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:coral_bonsai")
 	public static final Block block = null;
 	public CoralBonsaiBlock(XkdecoModElements instance) {
-		super(instance, 232);
+		super(instance, 163);
 	}
 
 	@Override

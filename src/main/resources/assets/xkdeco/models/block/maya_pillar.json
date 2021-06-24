@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xkdeco:blocks/maya_pillar_top",
+    "up": "xkdeco:blocks/maya_pillar_top",
+    "north": "xkdeco:blocks/maya_pillar_side",
+    "east": "xkdeco:blocks/maya_pillar_side",
+    "south": "xkdeco:blocks/maya_pillar_side",
+    "west": "xkdeco:blocks/maya_pillar_side",
+    "particle": "xkdeco:blocks/maya_pillar_top"
+  }
+}

@@ -45,7 +45,7 @@ public class EgyptianSmoothColumnBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:egyptian_smooth_column")
 	public static final Block block = null;
 	public EgyptianSmoothColumnBlock(XkdecoModElements instance) {
-		super(instance, 189);
+		super(instance, 193);
 	}
 
 	@Override

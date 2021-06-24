@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_wall_side_tall",
+  "textures": {
+    "wall": "xkdeco:blocks/maya_stonebricks",
+    "particle": "xkdeco:blocks/maya_stonebricks"
+  }
+}

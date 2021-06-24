@@ -46,7 +46,7 @@ public class QuartzWallBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:quartz_wall")
 	public static final Block block = null;
 	public QuartzWallBlock(XkdecoModElements instance) {
-		super(instance, 192);
+		super(instance, 196);
 	}
 
 	@Override

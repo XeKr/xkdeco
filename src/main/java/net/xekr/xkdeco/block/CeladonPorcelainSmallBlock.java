@@ -46,7 +46,7 @@ public class CeladonPorcelainSmallBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:celadon_porcelain_small")
 	public static final Block block = null;
 	public CeladonPorcelainSmallBlock(XkdecoModElements instance) {
-		super(instance, 228);
+		super(instance, 159);
 	}
 
 	@Override

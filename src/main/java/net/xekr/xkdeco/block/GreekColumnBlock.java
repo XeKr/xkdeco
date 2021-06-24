@@ -45,7 +45,7 @@ public class GreekColumnBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:greek_column")
 	public static final Block block = null;
 	public GreekColumnBlock(XkdecoModElements instance) {
-		super(instance, 193);
+		super(instance, 197);
 	}
 
 	@Override

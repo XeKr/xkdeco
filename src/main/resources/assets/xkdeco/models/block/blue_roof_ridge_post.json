@@ -1,0 +1,31 @@
+{
+	"credit": "Made by XeKr with Blockbench",
+	"parent": "block/block",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "xkdeco:blocks/blue_roof_ridge",
+		"ridge": "xkdeco:blocks/blue_roof_ridge"
+	},
+	"elements": [
+		{
+			"from": [5, 8, 5],
+			"to": [11, 16.05, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [5, 0, 11, 8], "texture": "#ridge"},
+				"east": {"uv": [5, 0, 11, 8], "texture": "#ridge"},
+				"south": {"uv": [5, 0, 11, 8], "texture": "#ridge"},
+				"west": {"uv": [5, 0, 11, 8], "texture": "#ridge"},
+				"up": {"uv": [5, 1, 11, 7], "texture": "#ridge"},
+				"down": {"uv": [5, 1, 11, 7], "texture": "#ridge"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [30, 135, 0],
+			"translation": [0, -0.5, 0],
+			"scale": [0.6, 0.6, 0.6]
+		}
+	}
+}

@@ -30,7 +30,7 @@ public class BracketInterpolationBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:bracket_interpolation")
 	public static final Block block = null;
 	public BracketInterpolationBlock(XkdecoModElements instance) {
-		super(instance, 185);
+		super(instance, 116);
 	}
 
 	@Override

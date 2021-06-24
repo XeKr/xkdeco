@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "xkdeco:blocks/maya_pictogram_stone3",
+    "particle": "xkdeco:blocks/maya_pictogram_stone3"
+  }
+}

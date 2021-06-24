@@ -32,7 +32,7 @@ public class EbonyImplicateBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:ebony_implicate")
 	public static final Block block = null;
 	public EbonyImplicateBlock(XkdecoModElements instance) {
-		super(instance, 196);
+		super(instance, 127);
 	}
 
 	@Override

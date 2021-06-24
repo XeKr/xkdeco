@@ -48,7 +48,7 @@ public class GoBoardBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:go_board")
 	public static final Block block = null;
 	public GoBoardBlock(XkdecoModElements instance) {
-		super(instance, 234);
+		super(instance, 165);
 	}
 
 	@Override

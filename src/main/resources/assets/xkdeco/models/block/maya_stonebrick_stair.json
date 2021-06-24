@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "xkdeco:blocks/maya_stonebricks",
+    "top": "xkdeco:blocks/maya_stonebricks",
+    "side": "xkdeco:blocks/maya_stonebricks"
+  }
+}

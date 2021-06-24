@@ -45,7 +45,7 @@ public class EgyptianBumpColumnBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:egyptian_bump_column")
 	public static final Block block = null;
 	public EgyptianBumpColumnBlock(XkdecoModElements instance) {
-		super(instance, 181);
+		super(instance, 185);
 	}
 
 	@Override

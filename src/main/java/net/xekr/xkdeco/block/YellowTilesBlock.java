@@ -25,7 +25,7 @@ public class YellowTilesBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:yellow_tiles")
 	public static final Block block = null;
 	public YellowTilesBlock(XkdecoModElements instance) {
-		super(instance, 27);
+		super(instance, 31);
 	}
 
 	@Override

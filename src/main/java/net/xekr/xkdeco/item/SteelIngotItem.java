@@ -1,7 +1,7 @@
 
 package net.xekr.xkdeco.item;
 
-import net.xekr.xkdeco.itemgroup.XkDecoBasicItemGroup;
+import net.xekr.xkdeco.itemgroup.XkDecoPunkItemGroup;
 import net.xekr.xkdeco.XkdecoModElements;
 
 import net.minecraftforge.registries.ObjectHolder;
@@ -16,7 +16,7 @@ public class SteelIngotItem extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:steel_ingot")
 	public static final Item block = null;
 	public SteelIngotItem(XkdecoModElements instance) {
-		super(instance, 1);
+		super(instance, 7);
 	}
 
 	@Override
@@ -25,7 +25,7 @@ public class SteelIngotItem extends XkdecoModElements.ModElement {
 	}
 	public static class ItemCustom extends Item {
 		public ItemCustom() {
-			super(new Item.Properties().group(XkDecoBasicItemGroup.tab).maxStackSize(64).rarity(Rarity.COMMON));
+			super(new Item.Properties().group(XkDecoPunkItemGroup.tab).maxStackSize(64).rarity(Rarity.COMMON));
 			setRegistryName("steel_ingot");
 		}
 

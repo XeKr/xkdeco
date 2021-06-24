@@ -32,7 +32,7 @@ public class MahoganyWindowBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:mahogany_window")
 	public static final Block block = null;
 	public MahoganyWindowBlock(XkdecoModElements instance) {
-		super(instance, 159);
+		super(instance, 92);
 	}
 
 	@Override

@@ -49,7 +49,7 @@ public class FishBowlBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:fish_bowl")
 	public static final Block block = null;
 	public FishBowlBlock(XkdecoModElements instance) {
-		super(instance, 229);
+		super(instance, 160);
 	}
 
 	@Override

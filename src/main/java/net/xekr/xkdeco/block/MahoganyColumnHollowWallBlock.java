@@ -45,7 +45,7 @@ public class MahoganyColumnHollowWallBlock extends XkdecoModElements.ModElement 
 	@ObjectHolder("xkdeco:mahogany_column_hollow_wall")
 	public static final Block block = null;
 	public MahoganyColumnHollowWallBlock(XkdecoModElements instance) {
-		super(instance, 151);
+		super(instance, 84);
 	}
 
 	@Override

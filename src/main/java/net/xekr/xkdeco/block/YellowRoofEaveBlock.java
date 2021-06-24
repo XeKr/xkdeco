@@ -31,7 +31,7 @@ public class YellowRoofEaveBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:yellow_roof_eave")
 	public static final Block block = null;
 	public YellowRoofEaveBlock(XkdecoModElements instance) {
-		super(instance, 54);
+		super(instance, 58);
 	}
 
 	@Override

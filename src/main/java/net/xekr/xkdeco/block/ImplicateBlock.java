@@ -32,7 +32,7 @@ public class ImplicateBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:implicate")
 	public static final Block block = null;
 	public ImplicateBlock(XkdecoModElements instance) {
-		super(instance, 193);
+		super(instance, 124);
 	}
 
 	@Override

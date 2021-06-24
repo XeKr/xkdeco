@@ -30,7 +30,7 @@ public class MahoganyGooseneckChairBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:mahogany_gooseneck_chair")
 	public static final Block block = null;
 	public MahoganyGooseneckChairBlock(XkdecoModElements instance) {
-		super(instance, 212);
+		super(instance, 143);
 	}
 
 	@Override

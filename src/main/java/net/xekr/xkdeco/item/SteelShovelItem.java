@@ -1,7 +1,7 @@
 
 package net.xekr.xkdeco.item;
 
-import net.xekr.xkdeco.itemgroup.XkDecoBasicItemGroup;
+import net.xekr.xkdeco.itemgroup.XkDecoPunkItemGroup;
 import net.xekr.xkdeco.XkdecoModElements;
 
 import net.minecraftforge.registries.ObjectHolder;
@@ -17,7 +17,7 @@ public class SteelShovelItem extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:steel_shovel")
 	public static final Item block = null;
 	public SteelShovelItem(XkdecoModElements instance) {
-		super(instance, 4);
+		super(instance, 3);
 	}
 
 	@Override
@@ -46,7 +46,7 @@ public class SteelShovelItem extends XkdecoModElements.ModElement {
 			public Ingredient getRepairMaterial() {
 				return Ingredient.fromStacks(new ItemStack(SteelIngotItem.block, (int) (1)));
 			}
-		}, 1, -3f, new Item.Properties().group(XkDecoBasicItemGroup.tab)) {
+		}, 1, -3f, new Item.Properties().group(XkDecoPunkItemGroup.tab)) {
 		}.setRegistryName("steel_shovel"));
 	}
 }

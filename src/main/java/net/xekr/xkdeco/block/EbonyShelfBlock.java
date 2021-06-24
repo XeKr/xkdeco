@@ -49,7 +49,7 @@ public class EbonyShelfBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:ebony_shelf")
 	public static final Block block = null;
 	public EbonyShelfBlock(XkdecoModElements instance) {
-		super(instance, 209);
+		super(instance, 140);
 	}
 
 	@Override

@@ -1,0 +1,9 @@
+{
+  "group": "red_tiles",
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "xkdeco:red_tiles"
+  },
+  "result": "xkdeco:red_tile_slab"
+}

@@ -48,7 +48,7 @@ public class EbonyColumnHeadBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:ebony_column_head")
 	public static final Block block = null;
 	public EbonyColumnHeadBlock(XkdecoModElements instance) {
-		super(instance, 197);
+		super(instance, 128);
 	}
 
 	@Override

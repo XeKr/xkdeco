@@ -32,7 +32,7 @@ public class ThresholdWoodBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:threshold_wood")
 	public static final Block block = null;
 	public ThresholdWoodBlock(XkdecoModElements instance) {
-		super(instance, 169);
+		super(instance, 102);
 	}
 
 	@Override

@@ -30,7 +30,7 @@ public class EbonyBracketInterpolationHollowBlock extends XkdecoModElements.ModE
 	@ObjectHolder("xkdeco:ebony_bracket_interpolation_hollow")
 	public static final Block block = null;
 	public EbonyBracketInterpolationHollowBlock(XkdecoModElements instance) {
-		super(instance, 189);
+		super(instance, 120);
 	}
 
 	@Override

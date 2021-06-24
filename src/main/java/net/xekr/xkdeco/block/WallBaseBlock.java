@@ -31,7 +31,7 @@ public class WallBaseBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:wall_base")
 	public static final Block block = null;
 	public WallBaseBlock(XkdecoModElements instance) {
-		super(instance, 165);
+		super(instance, 98);
 	}
 
 	@Override

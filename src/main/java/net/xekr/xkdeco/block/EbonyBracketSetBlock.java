@@ -30,7 +30,7 @@ public class EbonyBracketSetBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:ebony_bracket_set")
 	public static final Block block = null;
 	public EbonyBracketSetBlock(XkdecoModElements instance) {
-		super(instance, 187);
+		super(instance, 118);
 	}
 
 	@Override

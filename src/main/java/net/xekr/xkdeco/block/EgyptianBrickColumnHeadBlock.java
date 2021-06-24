@@ -45,7 +45,7 @@ public class EgyptianBrickColumnHeadBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:egyptian_brick_column_head")
 	public static final Block block = null;
 	public EgyptianBrickColumnHeadBlock(XkdecoModElements instance) {
-		super(instance, 179);
+		super(instance, 183);
 	}
 
 	@Override

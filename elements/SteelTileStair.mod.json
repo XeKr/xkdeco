@@ -40,7 +40,7 @@
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
-      "value": "CUSTOM:XkDecoBasic"
+      "value": "CUSTOM:XkDecoPunk"
     },
     "destroyTool": "pickaxe",
     "customDrop": {

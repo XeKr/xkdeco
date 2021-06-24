@@ -2,42 +2,16 @@
   "_fv": 18,
   "_type": "recipe",
   "definition": {
-    "recipeType": "Crafting",
+    "recipeType": "Stone cutting",
     "xpReward": 0.0,
     "cookingTime": 200,
-    "recipeRetstackSize": 6,
+    "recipeRetstackSize": 1,
     "group": "black_tiles",
     "recipeShapeless": false,
-    "recipeSlots": [
-      {
-        "value": "CUSTOM:BlackTiles"
-      },
-      {
-        "value": ""
-      },
-      {
-        "value": ""
-      },
-      {
-        "value": "CUSTOM:BlackTiles"
-      },
-      {
-        "value": "CUSTOM:BlackTiles"
-      },
-      {
-        "value": ""
-      },
-      {
-        "value": "CUSTOM:BlackTiles"
-      },
-      {
-        "value": "CUSTOM:BlackTiles"
-      },
-      {
-        "value": "CUSTOM:BlackTiles"
-      }
-    ],
-    "recipeReturnStack": {
+    "stoneCuttingInputStack": {
+      "value": "CUSTOM:BlackTiles"
+    },
+    "stoneCuttingReturnStack": {
       "value": "CUSTOM:BlackTileStair"
     },
     "name": "black_tile_stair_recipe",

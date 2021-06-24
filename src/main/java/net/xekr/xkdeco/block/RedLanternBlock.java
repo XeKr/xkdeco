@@ -44,7 +44,7 @@ public class RedLanternBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:red_lantern")
 	public static final Block block = null;
 	public RedLanternBlock(XkdecoModElements instance) {
-		super(instance, 236);
+		super(instance, 167);
 	}
 
 	@Override

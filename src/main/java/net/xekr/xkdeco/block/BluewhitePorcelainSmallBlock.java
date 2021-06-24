@@ -46,7 +46,7 @@ public class BluewhitePorcelainSmallBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:bluewhite_porcelain_small")
 	public static final Block block = null;
 	public BluewhitePorcelainSmallBlock(XkdecoModElements instance) {
-		super(instance, 225);
+		super(instance, 156);
 	}
 
 	@Override

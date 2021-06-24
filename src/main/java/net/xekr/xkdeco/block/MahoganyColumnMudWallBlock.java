@@ -45,7 +45,7 @@ public class MahoganyColumnMudWallBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:mahogany_column_mud_wall")
 	public static final Block block = null;
 	public MahoganyColumnMudWallBlock(XkdecoModElements instance) {
-		super(instance, 150);
+		super(instance, 83);
 	}
 
 	@Override

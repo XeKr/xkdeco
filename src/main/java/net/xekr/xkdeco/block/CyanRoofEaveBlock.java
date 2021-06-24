@@ -31,7 +31,7 @@ public class CyanRoofEaveBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:cyan_roof_eave")
 	public static final Block block = null;
 	public CyanRoofEaveBlock(XkdecoModElements instance) {
-		super(instance, 45);
+		super(instance, 49);
 	}
 
 	@Override

@@ -45,7 +45,7 @@ public class EbonyColumnHollowWallBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:ebony_column_hollow_wall")
 	public static final Block block = null;
 	public EbonyColumnHollowWallBlock(XkdecoModElements instance) {
-		super(instance, 148);
+		super(instance, 81);
 	}
 
 	@Override

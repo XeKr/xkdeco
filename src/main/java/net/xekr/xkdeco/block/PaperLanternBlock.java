@@ -44,7 +44,7 @@ public class PaperLanternBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:paper_lantern")
 	public static final Block block = null;
 	public PaperLanternBlock(XkdecoModElements instance) {
-		super(instance, 235);
+		super(instance, 166);
 	}
 
 	@Override

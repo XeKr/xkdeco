@@ -1,7 +1,7 @@
 
 package net.xekr.xkdeco.item;
 
-import net.xekr.xkdeco.itemgroup.XkDecoBasicItemGroup;
+import net.xekr.xkdeco.itemgroup.XkDecoPunkItemGroup;
 import net.xekr.xkdeco.XkdecoModElements;
 
 import net.minecraftforge.registries.ObjectHolder;
@@ -17,7 +17,7 @@ public class SteelPickaxeItem extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:steel_pickaxe")
 	public static final Item block = null;
 	public SteelPickaxeItem(XkdecoModElements instance) {
-		super(instance, 2);
+		super(instance, 1);
 	}
 
 	@Override
@@ -46,7 +46,7 @@ public class SteelPickaxeItem extends XkdecoModElements.ModElement {
 			public Ingredient getRepairMaterial() {
 				return Ingredient.fromStacks(new ItemStack(SteelIngotItem.block, (int) (1)));
 			}
-		}, 1, -2.8f, new Item.Properties().group(XkDecoBasicItemGroup.tab)) {
+		}, 1, -2.8f, new Item.Properties().group(XkDecoPunkItemGroup.tab)) {
 		}.setRegistryName("steel_pickaxe"));
 	}
 }

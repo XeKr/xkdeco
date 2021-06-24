@@ -34,7 +34,7 @@ public class MahoganyFenceBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:mahogany_fence")
 	public static final Block block = null;
 	public MahoganyFenceBlock(XkdecoModElements instance) {
-		super(instance, 71);
+		super(instance, 75);
 	}
 
 	@Override

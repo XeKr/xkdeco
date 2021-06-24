@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "xkdeco:blocks/steel_column_wall",
+    "particle": "xkdeco:blocks/steel_column_wall"
+  }
+}

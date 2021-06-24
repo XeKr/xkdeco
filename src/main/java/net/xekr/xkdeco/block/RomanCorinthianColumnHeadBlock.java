@@ -45,7 +45,7 @@ public class RomanCorinthianColumnHeadBlock extends XkdecoModElements.ModElement
 	@ObjectHolder("xkdeco:roman_corinthian_column_head")
 	public static final Block block = null;
 	public RomanCorinthianColumnHeadBlock(XkdecoModElements instance) {
-		super(instance, 336);
+		super(instance, 219);
 	}
 
 	@Override

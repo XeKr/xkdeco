@@ -25,7 +25,7 @@ public class SandstoneSmallBricksBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:sandstone_small_bricks")
 	public static final Block block = null;
 	public SandstoneSmallBricksBlock(XkdecoModElements instance) {
-		super(instance, 171);
+		super(instance, 175);
 	}
 
 	@Override

@@ -31,7 +31,7 @@ public class EgyptianBeamBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:egyptian_moulding")
 	public static final Block block = null;
 	public EgyptianBeamBlock(XkdecoModElements instance) {
-		super(instance, 190);
+		super(instance, 195);
 	}
 
 	@Override

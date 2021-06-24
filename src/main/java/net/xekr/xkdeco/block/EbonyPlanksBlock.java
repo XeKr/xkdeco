@@ -27,7 +27,7 @@ public class EbonyPlanksBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:ebony_planks")
 	public static final Block block = null;
 	public EbonyPlanksBlock(XkdecoModElements instance) {
-		super(instance, 59);
+		super(instance, 63);
 	}
 
 	@Override

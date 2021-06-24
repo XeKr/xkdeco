@@ -26,7 +26,7 @@ public class YellowTileStairBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:yellow_tile_stair")
 	public static final Block block = null;
 	public YellowTileStairBlock(XkdecoModElements instance) {
-		super(instance, 29);
+		super(instance, 33);
 	}
 
 	@Override

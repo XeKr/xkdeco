@@ -34,7 +34,7 @@ public class EbonyScreenBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:ebony_screen")
 	public static final Block block = null;
 	public EbonyScreenBlock(XkdecoModElements instance) {
-		super(instance, 210);
+		super(instance, 141);
 	}
 
 	@Override

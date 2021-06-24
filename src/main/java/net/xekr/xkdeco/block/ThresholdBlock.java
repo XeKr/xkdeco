@@ -33,7 +33,7 @@ public class ThresholdBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:threshold")
 	public static final Block block = null;
 	public ThresholdBlock(XkdecoModElements instance) {
-		super(instance, 168);
+		super(instance, 101);
 	}
 
 	@Override

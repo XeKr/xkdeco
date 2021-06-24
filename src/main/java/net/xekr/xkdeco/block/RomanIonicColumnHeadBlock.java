@@ -49,7 +49,7 @@ public class RomanIonicColumnHeadBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:roman_ionic_column_head")
 	public static final Block block = null;
 	public RomanIonicColumnHeadBlock(XkdecoModElements instance) {
-		super(instance, 333);
+		super(instance, 216);
 	}
 
 	@Override

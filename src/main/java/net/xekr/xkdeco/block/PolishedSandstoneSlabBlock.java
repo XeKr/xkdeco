@@ -27,7 +27,7 @@ public class PolishedSandstoneSlabBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:polished_sandstone_slab")
 	public static final Block block = null;
 	public PolishedSandstoneSlabBlock(XkdecoModElements instance) {
-		super(instance, 167);
+		super(instance, 171);
 	}
 
 	@Override

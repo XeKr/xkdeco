@@ -32,7 +32,7 @@ public class EbonyFlipWindowBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:ebony_flip_window")
 	public static final Block block = null;
 	public EbonyFlipWindowBlock(XkdecoModElements instance) {
-		super(instance, 157);
+		super(instance, 90);
 	}
 
 	@Override

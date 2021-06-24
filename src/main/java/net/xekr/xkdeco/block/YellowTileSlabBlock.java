@@ -27,7 +27,7 @@ public class YellowTileSlabBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:yellow_tile_slab")
 	public static final Block block = null;
 	public YellowTileSlabBlock(XkdecoModElements instance) {
-		super(instance, 28);
+		super(instance, 32);
 	}
 
 	@Override

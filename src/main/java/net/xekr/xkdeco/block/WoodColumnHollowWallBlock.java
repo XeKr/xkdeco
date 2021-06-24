@@ -45,7 +45,7 @@ public class WoodColumnHollowWallBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:wood_column_hollow_wall")
 	public static final Block block = null;
 	public WoodColumnHollowWallBlock(XkdecoModElements instance) {
-		super(instance, 154);
+		super(instance, 87);
 	}
 
 	@Override

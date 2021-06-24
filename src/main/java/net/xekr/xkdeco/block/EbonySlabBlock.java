@@ -29,7 +29,7 @@ public class EbonySlabBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:ebony_slab")
 	public static final Block block = null;
 	public EbonySlabBlock(XkdecoModElements instance) {
-		super(instance, 61);
+		super(instance, 65);
 	}
 
 	@Override

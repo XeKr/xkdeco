@@ -25,7 +25,7 @@ public class BlackTilesBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:black_tiles")
 	public static final Block block = null;
 	public BlackTilesBlock(XkdecoModElements instance) {
-		super(instance, 21);
+		super(instance, 25);
 	}
 
 	@Override

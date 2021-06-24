@@ -45,7 +45,7 @@ public class EgyptianCarvedColumnBaseBlock extends XkdecoModElements.ModElement 
 	@ObjectHolder("xkdeco:egyptian_carved_column_base")
 	public static final Block block = null;
 	public EgyptianCarvedColumnBaseBlock(XkdecoModElements instance) {
-		super(instance, 186);
+		super(instance, 190);
 	}
 
 	@Override

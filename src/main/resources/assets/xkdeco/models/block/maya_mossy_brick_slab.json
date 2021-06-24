@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "xkdeco:blocks/maya_mossy_bricks",
+    "top": "xkdeco:blocks/maya_mossy_bricks",
+    "side": "xkdeco:blocks/maya_mossy_bricks"
+  }
+}

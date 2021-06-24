@@ -1,0 +1,20 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Stone cutting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "stoneCuttingInputStack": {
+      "value": "Blocks.QUARTZ_BLOCK#2"
+    },
+    "stoneCuttingReturnStack": {
+      "value": "CUSTOM:GreekDoricColumnHead"
+    },
+    "name": "greek_doric_column_head_r",
+    "namespace": "mod"
+  }
+}

@@ -34,7 +34,7 @@ public class MahoganyScreenBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:mahogany_screen")
 	public static final Block block = null;
 	public MahoganyScreenBlock(XkdecoModElements instance) {
-		super(instance, 219);
+		super(instance, 150);
 	}
 
 	@Override

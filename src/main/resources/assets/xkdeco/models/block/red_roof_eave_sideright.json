@@ -1,0 +1,9 @@
+{
+	"parent": "xkdeco:block/blue_roof_eave_sideright",
+	"textures": {
+		"ridge": "xkdeco:blocks/red_roof_ridge",
+		"inner": "xkdeco:blocks/roof_inner",
+		"particle": "xkdeco:blocks/red_roof",
+		"roof": "xkdeco:blocks/red_roof"
+	}
+}

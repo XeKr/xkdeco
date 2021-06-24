@@ -1,0 +1,9 @@
+{
+  "group": "green_tiles",
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "xkdeco:green_tiles"
+  },
+  "result": "xkdeco:green_roof"
+}

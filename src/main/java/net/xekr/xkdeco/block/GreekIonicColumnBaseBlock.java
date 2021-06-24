@@ -45,7 +45,7 @@ public class GreekIonicColumnBaseBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:greek_ionic_column_base")
 	public static final Block block = null;
 	public GreekIonicColumnBaseBlock(XkdecoModElements instance) {
-		super(instance, 195);
+		super(instance, 199);
 	}
 
 	@Override

@@ -33,7 +33,7 @@ public class SandstonePillarBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:sandstone_pillar")
 	public static final Block block = null;
 	public SandstonePillarBlock(XkdecoModElements instance) {
-		super(instance, 165);
+		super(instance, 169);
 	}
 
 	@Override

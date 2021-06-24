@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "xkdeco:blocks/factory_block",
+    "top": "xkdeco:blocks/factory_block",
+    "side": "xkdeco:blocks/factory_block"
+  }
+}

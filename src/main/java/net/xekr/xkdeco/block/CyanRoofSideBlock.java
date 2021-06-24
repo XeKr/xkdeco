@@ -31,7 +31,7 @@ public class CyanRoofSideBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:cyan_roof_side")
 	public static final Block block = null;
 	public CyanRoofSideBlock(XkdecoModElements instance) {
-		super(instance, 40);
+		super(instance, 44);
 	}
 
 	@Override

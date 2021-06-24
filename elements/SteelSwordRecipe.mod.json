@@ -6,7 +6,7 @@
     "xpReward": 0.0,
     "cookingTime": 200,
     "recipeRetstackSize": 1,
-    "group": "",
+    "group": "steel_tools",
     "recipeShapeless": false,
     "smithingInputStack": {
       "value": "Items.IRON_SWORD"

@@ -44,7 +44,7 @@ public class MahoganyBigTableBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:mahogany_big_table")
 	public static final Block block = null;
 	public MahoganyBigTableBlock(XkdecoModElements instance) {
-		super(instance, 214);
+		super(instance, 145);
 	}
 
 	@Override

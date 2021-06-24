@@ -1,0 +1,9 @@
+{
+  "group": "blue_tiles",
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "xkdeco:blue_tiles"
+  },
+  "result": "xkdeco:blue_roof_slow"
+}

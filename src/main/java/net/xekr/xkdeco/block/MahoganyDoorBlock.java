@@ -34,7 +34,7 @@ public class MahoganyDoorBlock extends XkdecoModElements.ModElement {
 	@ObjectHolder("xkdeco:mahogany_door")
 	public static final Block block = null;
 	public MahoganyDoorBlock(XkdecoModElements instance) {
-		super(instance, 142);
+		super(instance, 77);
 	}
 
 	@Override

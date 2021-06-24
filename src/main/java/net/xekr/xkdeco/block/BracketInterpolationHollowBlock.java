@@ -30,7 +30,7 @@ public class BracketInterpolationHollowBlock extends XkdecoModElements.ModElemen
 	@ObjectHolder("xkdeco:bracket_interpolation_hollow")
 	public static final Block block = null;
 	public BracketInterpolationHollowBlock(XkdecoModElements instance) {
-		super(instance, 186);
+		super(instance, 117);
 	}
 
 	@Override

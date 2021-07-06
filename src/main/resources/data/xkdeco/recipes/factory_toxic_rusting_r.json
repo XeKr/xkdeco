@@ -1,0 +1,9 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "xkdeco:factory_danger_rusting"
+  },
+  "result": "xkdeco:factory_toxic_rusting"
+}

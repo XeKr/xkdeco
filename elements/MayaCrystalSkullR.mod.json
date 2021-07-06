@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.STAINED_GLASS#10"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.STAINED_GLASS#10"
+      },
+      {
+        "value": "Blocks.SKULL#0"
+      },
+      {
+        "value": "Blocks.STAINED_GLASS#10"
+      },
+      {
+        "value": "CUSTOM:MayaStoneSlab"
+      },
+      {
+        "value": "CUSTOM:MayaStoneSlab"
+      },
+      {
+        "value": "CUSTOM:MayaStoneSlab"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:MayaCrystalSkull"
+    },
+    "name": "maya_crystal_skull_r",
+    "namespace": "mod"
+  }
+}

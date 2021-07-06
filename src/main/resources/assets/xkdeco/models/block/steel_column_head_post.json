@@ -9,7 +9,7 @@
 	},
 	"elements": [
 		{
-			"from": [4, 0, 4],
+			"from": [4, -0.05, 4],
 			"to": [12, 16, 12],
 			"faces": {
 				"north": {"uv": [4, 0, 12, 16], "texture": "#wall"},

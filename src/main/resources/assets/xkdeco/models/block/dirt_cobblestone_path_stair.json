@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "xkdeco:blocks/dirt_cobblestone_path",
+    "top": "xkdeco:blocks/dirt_cobblestone_path",
+    "side": "xkdeco:blocks/dirt_cobblestone_path"
+  }
+}

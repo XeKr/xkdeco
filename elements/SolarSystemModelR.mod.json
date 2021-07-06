@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.WOODEN_BUTTON"
+      },
+      {
+        "value": "Blocks.WOODEN_BUTTON"
+      },
+      {
+        "value": "Blocks.WOODEN_BUTTON"
+      },
+      {
+        "value": "Blocks.WOODEN_BUTTON"
+      },
+      {
+        "value": "Blocks.WOODEN_BUTTON"
+      },
+      {
+        "value": "Blocks.WOODEN_BUTTON"
+      },
+      {
+        "value": "Blocks.WOODEN_BUTTON"
+      },
+      {
+        "value": "Blocks.WOODEN_SLAB"
+      },
+      {
+        "value": "Blocks.WOODEN_BUTTON"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SolarSystemModel"
+    },
+    "name": "solar_system_model_r",
+    "namespace": "mod"
+  }
+}

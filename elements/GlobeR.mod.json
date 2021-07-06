@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.DYE#19"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.DYE#18"
+      },
+      {
+        "value": "CUSTOM:WoodGlobe"
+      },
+      {
+        "value": "Items.DYE#2"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Globe"
+    },
+    "name": "globe_r",
+    "namespace": "mod"
+  }
+}

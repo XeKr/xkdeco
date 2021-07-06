@@ -1,0 +1,36 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:purple_stained_glass"
+    },
+    "3": {
+      "item": "minecraft:purple_stained_glass"
+    },
+    "4": {
+      "item": "minecraft:skeleton_skull"
+    },
+    "5": {
+      "item": "minecraft:purple_stained_glass"
+    },
+    "6": {
+      "item": "xkdeco:maya_stone_slab"
+    },
+    "7": {
+      "item": "xkdeco:maya_stone_slab"
+    },
+    "8": {
+      "item": "xkdeco:maya_stone_slab"
+    }
+  },
+  "result": {
+    "item": "xkdeco:maya_crystal_skull",
+    "count": 1
+  }
+}

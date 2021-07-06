@@ -1,0 +1,9 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "xkdeco:maya_pillar"
+  },
+  "result": "xkdeco:maya_stonebrick_column"
+}

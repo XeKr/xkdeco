@@ -1,0 +1,16 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "xkdeco:factory_block"
+    },
+    {
+      "item": "minecraft:yellow_dye"
+    }
+  ],
+  "result": {
+    "item": "xkdeco:factory_danger",
+    "count": 1
+  }
+}

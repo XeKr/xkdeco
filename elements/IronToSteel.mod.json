@@ -4,12 +4,12 @@
   "definition": {
     "recipeType": "Blasting",
     "xpReward": 8.0,
-    "cookingTime": 1600,
+    "cookingTime": 800,
     "recipeRetstackSize": 1,
     "group": "",
     "recipeShapeless": false,
     "blastingInputStack": {
-      "value": "Blocks.IRON_BLOCK"
+      "value": "Items.IRON_INGOT"
     },
     "blastingReturnStack": {
       "value": "CUSTOM:SteelIngot"

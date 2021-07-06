@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "xkdeco:block/dirtslab"
+    },
+    "type=top": {
+      "model": "xkdeco:block/dirtslab_top"
+    },
+    "type=double": {
+      "model": "xkdeco:block/dirtslab_full"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "tag": "minecraft:planks"
+  },
+  "result": "xkdeco:simple_wooden_stool"
+}

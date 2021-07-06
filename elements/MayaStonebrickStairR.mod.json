@@ -1,0 +1,20 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Stone cutting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "stoneCuttingInputStack": {
+      "value": "CUSTOM:MayaStonebricks"
+    },
+    "stoneCuttingReturnStack": {
+      "value": "CUSTOM:MayaStonebrickStair"
+    },
+    "name": "maya_stonebrick_stair_r",
+    "namespace": "mod"
+  }
+}

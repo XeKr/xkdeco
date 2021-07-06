@@ -1,0 +1,16 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "xkdeco:maya_stonebricks"
+    },
+    {
+      "item": "minecraft:vine"
+    }
+  ],
+  "result": {
+    "item": "xkdeco:maya_mossy_stonebricks",
+    "count": 1
+  }
+}

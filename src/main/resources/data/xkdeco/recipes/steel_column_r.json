@@ -1,0 +1,9 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "xkdeco:steel_pillar"
+  },
+  "result": "xkdeco:steel_column"
+}

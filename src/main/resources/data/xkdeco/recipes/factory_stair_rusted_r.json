@@ -1,0 +1,9 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "xkdeco:factory_block_rusted"
+  },
+  "result": "xkdeco:factory_stair_rusted"
+}

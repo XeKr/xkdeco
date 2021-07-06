@@ -1,0 +1,26 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:granite"
+    },
+    "1": {
+      "item": "minecraft:andesite"
+    },
+    "2": {
+      "item": "minecraft:andesite"
+    },
+    "3": {
+      "item": "minecraft:granite"
+    }
+  },
+  "result": {
+    "item": "xkdeco:maya_stone",
+    "count": 4
+  }
+}

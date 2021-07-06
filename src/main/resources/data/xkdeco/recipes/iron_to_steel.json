@@ -2,9 +2,9 @@
   "group": "xkdeco",
   "type": "minecraft:blasting",
   "experience": 8,
-  "cookingtime": 1600,
+  "cookingtime": 800,
   "ingredient": {
-    "item": "minecraft:iron_block"
+    "item": "minecraft:iron_ingot"
   },
   "result": {
     "item": "xkdeco:steel_ingot"

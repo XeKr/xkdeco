@@ -1,0 +1,26 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:glass"
+    },
+    "1": {
+      "tag": "minecraft:planks"
+    },
+    "2": {
+      "item": "minecraft:black_stained_glass"
+    },
+    "4": {
+      "tag": "minecraft:wooden_slabs"
+    }
+  },
+  "result": {
+    "item": "xkdeco:telescope",
+    "count": 1
+  }
+}

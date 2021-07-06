@@ -1,7 +1,22 @@
 {
-  "parent": "block/fence_post",
-  "textures": {
-    "texture": "xkdeco:blocks/mahogany_planks",
-    "particle": "xkdeco:blocks/mahogany_planks"
-  }
+	"credit": "Made by XeKr with Blockbench",
+	"parent": "block/fence_side",
+	"textures": {
+		"particle": "xkdeco:blocks/mahogany_fence_post",
+		"post": "xkdeco:blocks/mahogany_fence_post"
+	},
+	"elements": [
+		{
+			"from": [6, 0, 6],
+			"to": [10, 16, 10],
+			"faces": {
+				"north": {"uv": [6, 0, 10, 16], "texture": "#post"},
+				"east": {"uv": [6, 0, 10, 16], "texture": "#post"},
+				"south": {"uv": [6, 0, 10, 16], "texture": "#post"},
+				"west": {"uv": [6, 0, 10, 16], "texture": "#post"},
+				"up": {"uv": [6, 0, 10, 4], "texture": "#post"},
+				"down": {"uv": [6, 0, 10, 4], "texture": "#post"}
+			}
+		}
+	]
 }

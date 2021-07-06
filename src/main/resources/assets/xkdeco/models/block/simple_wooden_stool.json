@@ -1,0 +1,44 @@
+{
+	"credit": "Made by XeKr with Blockbench",
+	"parent": "block/cube",
+	"textures": {
+		"particle": "xkdeco:blocks/simple_wooden_stool",
+		"stool": "xkdeco:blocks/simple_wooden_stool"
+	},
+	"elements": [
+		{
+			"from": [3, 0, 3],
+			"to": [13, 2, 13],
+			"faces": {
+				"north": {"uv": [10, 0, 12, 10], "rotation": 90, "texture": "#stool"},
+				"east": {"uv": [10, 0, 12, 10], "rotation": 90, "texture": "#stool"},
+				"south": {"uv": [10, 0, 12, 10], "rotation": 90, "texture": "#stool"},
+				"west": {"uv": [10, 0, 12, 10], "rotation": 90, "texture": "#stool"},
+				"up": {"uv": [0, 0, 10, 10], "texture": "#stool"},
+				"down": {"uv": [0, 0, 10, 10], "texture": "#stool"}
+			}
+		},
+		{
+			"from": [4, 2, 4],
+			"to": [12, 8, 12],
+			"faces": {
+				"north": {"uv": [1, 10, 9, 16], "texture": "#stool"},
+				"east": {"uv": [1, 10, 9, 16], "texture": "#stool"},
+				"south": {"uv": [1, 10, 9, 16], "texture": "#stool"},
+				"west": {"uv": [1, 10, 9, 16], "texture": "#stool"}
+			}
+		},
+		{
+			"from": [3, 8, 3],
+			"to": [13, 10, 13],
+			"faces": {
+				"north": {"uv": [10, 0, 12, 10], "rotation": 90, "texture": "#stool"},
+				"east": {"uv": [10, 0, 12, 10], "rotation": 90, "texture": "#stool"},
+				"south": {"uv": [10, 0, 12, 10], "rotation": 90, "texture": "#stool"},
+				"west": {"uv": [10, 0, 12, 10], "rotation": 90, "texture": "#stool"},
+				"up": {"uv": [0, 0, 10, 10], "texture": "#stool"},
+				"down": {"uv": [0, 0, 10, 10], "texture": "#stool"}
+			}
+		}
+	]
+}

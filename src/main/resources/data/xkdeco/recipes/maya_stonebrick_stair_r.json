@@ -1,0 +1,9 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "xkdeco:maya_stonebricks"
+  },
+  "result": "xkdeco:maya_stonebrick_stair"
+}

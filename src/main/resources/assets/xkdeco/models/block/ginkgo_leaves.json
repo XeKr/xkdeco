@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "xkdeco:blocks/ginkgo_leaves",
+    "particle": "xkdeco:blocks/ginkgo_leaves"
+  }
+}

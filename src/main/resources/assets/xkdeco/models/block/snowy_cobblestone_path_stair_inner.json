@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "xkdeco:blocks/snowy_cobblestone_path",
+    "top": "xkdeco:blocks/snowy_cobblestone_path",
+    "side": "xkdeco:blocks/snowy_cobblestone_path"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:potion"
+    },
+    "1": {
+      "item": "minecraft:potion"
+    },
+    "2": {
+      "item": "minecraft:potion"
+    },
+    "3": {
+      "item": "minecraft:potion"
+    }
+  },
+  "result": {
+    "item": "xkdeco:bottle_stack",
+    "count": 1
+  }
+}

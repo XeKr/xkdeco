@@ -10,8 +10,7 @@
         "north": "true"
       },
       "apply": {
-        "model": "xkdeco:block/ebony_fence",
-        "uvlock": true
+        "model": "xkdeco:block/ebony_fence"
       }
     },
     {
@@ -20,8 +19,7 @@
       },
       "apply": {
         "model": "xkdeco:block/ebony_fence",
-        "y": 180,
-        "uvlock": true
+        "y": 180
       }
     },
     {
@@ -30,8 +28,7 @@
       },
       "apply": {
         "model": "xkdeco:block/ebony_fence",
-        "y": 270,
-        "uvlock": true
+        "y": 270
       }
     },
     {
@@ -40,8 +37,7 @@
       },
       "apply": {
         "model": "xkdeco:block/ebony_fence",
-        "y": 90,
-        "uvlock": true
+        "y": 90
       }
     }
   ]

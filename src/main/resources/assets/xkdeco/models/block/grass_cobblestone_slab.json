@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "xkdeco:blocks/grass_cobblestone",
+    "top": "xkdeco:blocks/grass_cobblestone",
+    "side": "xkdeco:blocks/grass_cobblestone"
+  }
+}

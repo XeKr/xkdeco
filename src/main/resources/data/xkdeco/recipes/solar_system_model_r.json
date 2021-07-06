@@ -1,0 +1,42 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:oak_button"
+    },
+    "1": {
+      "item": "minecraft:oak_button"
+    },
+    "2": {
+      "item": "minecraft:oak_button"
+    },
+    "3": {
+      "item": "minecraft:oak_button"
+    },
+    "4": {
+      "item": "minecraft:oak_button"
+    },
+    "5": {
+      "item": "minecraft:oak_button"
+    },
+    "6": {
+      "item": "minecraft:oak_button"
+    },
+    "7": {
+      "tag": "minecraft:wooden_slabs"
+    },
+    "8": {
+      "item": "minecraft:oak_button"
+    }
+  },
+  "result": {
+    "item": "xkdeco:solar_system_model",
+    "count": 1
+  }
+}

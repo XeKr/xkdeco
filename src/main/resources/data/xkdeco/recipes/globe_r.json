@@ -1,0 +1,26 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:white_dye"
+    },
+    "3": {
+      "item": "minecraft:blue_dye"
+    },
+    "4": {
+      "item": "xkdeco:wood_globe"
+    },
+    "5": {
+      "item": "minecraft:green_dye"
+    }
+  },
+  "result": {
+    "item": "xkdeco:globe",
+    "count": 1
+  }
+}

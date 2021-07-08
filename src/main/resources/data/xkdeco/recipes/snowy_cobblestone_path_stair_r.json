@@ -1,0 +1,9 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "xkdeco:snowy_cobblestone"
+  },
+  "result": "xkdeco:snowy_cobblestone_path_stair"
+}

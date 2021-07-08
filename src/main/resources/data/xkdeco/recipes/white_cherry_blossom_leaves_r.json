@@ -1,0 +1,16 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:oak_leaves"
+    },
+    {
+      "item": "xkdeco:white_cherry_blossom"
+    }
+  ],
+  "result": {
+    "item": "xkdeco:white_cherry_blossom_leaves",
+    "count": 2
+  }
+}

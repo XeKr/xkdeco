@@ -1,0 +1,9 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "minecraft:oak_leaves"
+  },
+  "result": "xkdeco:willow_leaves_end"
+}

@@ -1,0 +1,42 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:oak_leaves"
+    },
+    "1": {
+      "item": "minecraft:oak_leaves"
+    },
+    "2": {
+      "item": "minecraft:oak_leaves"
+    },
+    "3": {
+      "item": "minecraft:oak_leaves"
+    },
+    "4": {
+      "item": "minecraft:red_dye"
+    },
+    "5": {
+      "item": "minecraft:oak_leaves"
+    },
+    "6": {
+      "item": "minecraft:oak_leaves"
+    },
+    "7": {
+      "item": "minecraft:oak_leaves"
+    },
+    "8": {
+      "item": "minecraft:oak_leaves"
+    }
+  },
+  "result": {
+    "item": "xkdeco:red_maple_leaves",
+    "count": 8
+  }
+}

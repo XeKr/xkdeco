@@ -64,7 +64,8 @@ public class WillowLeavesEndBlock extends XkdecoModElements.ModElement {
 
 	public static class CustomBlock extends LeavesBlock {
 		public CustomBlock() {
-			super(Block.Properties.create(Material.LEAVES).sound(SoundType.PLANT).hardnessAndResistance(0.5f, 0.5f).setLightLevel(s -> 0).notSolid());
+			super(Block.Properties.create(Material.LEAVES).sound(SoundType.PLANT).hardnessAndResistance(0.5f, 0.5f).setLightLevel(s -> 0)
+					.doesNotBlockMovement().notSolid());
 			setRegistryName("willow_leaves_end");
 		}
 

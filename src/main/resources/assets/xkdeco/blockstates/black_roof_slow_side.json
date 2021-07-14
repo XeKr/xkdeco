@@ -46,22 +46,18 @@
       "y": 180
     },
     "facing=east,half=top,shape=straight": {
-      "model": "xkdeco:block/black_roof_slow_side",
-      "x": 180
+      "model": "xkdeco:block/black_roof_slow_upper_side"
     },
     "facing=west,half=top,shape=straight": {
-      "model": "xkdeco:block/black_roof_slow_side",
-      "x": 180,
+      "model": "xkdeco:block/black_roof_slow_upper_side",
       "y": 180
     },
     "facing=south,half=top,shape=straight": {
-      "model": "xkdeco:block/black_roof_slow_side",
-      "x": 180,
+      "model": "xkdeco:block/black_roof_slow_upper_side",
       "y": 90
     },
     "facing=north,half=top,shape=straight": {
-      "model": "xkdeco:block/black_roof_slow_side",
-      "x": 180,
+      "model": "xkdeco:block/black_roof_slow_upper_side",
       "y": 270
     },
     "facing=east,half=top,shape=outer_right": {

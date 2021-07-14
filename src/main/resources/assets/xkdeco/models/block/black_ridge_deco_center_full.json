@@ -1,0 +1,55 @@
+{
+	"credit": "Made by XeKr with Blockbench",
+	"parent": "block/slab",
+	"textures": {
+		"particle": "xkdeco:blocks/black_ridge_deco_center",
+		"center": "xkdeco:blocks/black_ridge_deco_center"
+	},
+	"elements": [
+		{
+			"from": [4, 0, 4],
+			"to": [12, 12, 12],
+			"faces": {
+				"north": {"uv": [0, 4, 8, 16], "texture": "#center"},
+				"east": {"uv": [0, 4, 8, 16], "texture": "#center"},
+				"south": {"uv": [0, 4, 8, 16], "texture": "#center"},
+				"west": {"uv": [0, 4, 8, 16], "texture": "#center"},
+				"up": {"uv": [8, 8, 16, 16], "texture": "#center"},
+				"down": {"uv": [8, 8, 16, 16], "texture": "#center"}
+			}
+		},
+		{
+			"from": [6, 12, 6],
+			"to": [10, 14, 10],
+			"faces": {
+				"north": {"uv": [0, 2, 4, 4], "texture": "#center"},
+				"east": {"uv": [0, 2, 4, 4], "texture": "#center"},
+				"south": {"uv": [0, 2, 4, 4], "texture": "#center"},
+				"west": {"uv": [0, 2, 4, 4], "texture": "#center"}
+			}
+		},
+		{
+			"from": [5, 14, 5],
+			"to": [11, 20, 11],
+			"faces": {
+				"north": {"uv": [10, 0, 16, 6], "texture": "#center"},
+				"east": {"uv": [10, 0, 16, 6], "texture": "#center"},
+				"south": {"uv": [10, 0, 16, 6], "texture": "#center"},
+				"west": {"uv": [10, 0, 16, 6], "texture": "#center"},
+				"up": {"uv": [10, 0, 16, 6], "texture": "#center"},
+				"down": {"uv": [10, 0, 16, 6], "texture": "#center"}
+			}
+		},
+		{
+			"from": [7, 20, 7],
+			"to": [9, 26, 9],
+			"faces": {
+				"north": {"uv": [8, 0, 10, 6], "texture": "#center"},
+				"east": {"uv": [8, 0, 10, 6], "texture": "#center"},
+				"south": {"uv": [8, 0, 10, 6], "texture": "#center"},
+				"west": {"uv": [8, 0, 10, 6], "texture": "#center"},
+				"up": {"uv": [8, 0, 10, 2], "texture": "#center"}
+			}
+		}
+	]
+}

@@ -1,79 +1,63 @@
 {
   "variants": {
     "facing=south,in_wall=false,open=false": {
-      "model": "xkdeco:block/threshold",
-      "uvlock": true
+      "model": "xkdeco:block/threshold"
     },
     "facing=west,in_wall=false,open=false": {
       "model": "xkdeco:block/threshold",
-      "uvlock": true,
       "y": 90
     },
     "facing=north,in_wall=false,open=false": {
       "model": "xkdeco:block/threshold",
-      "uvlock": true,
       "y": 180
     },
     "facing=east,in_wall=false,open=false": {
       "model": "xkdeco:block/threshold",
-      "uvlock": true,
       "y": 270
     },
     "facing=south,in_wall=false,open=true": {
-      "model": "xkdeco:block/threshold_open",
-      "uvlock": true
+      "model": "xkdeco:block/threshold_open"
     },
     "facing=west,in_wall=false,open=true": {
       "model": "xkdeco:block/threshold_open",
-      "uvlock": true,
       "y": 90
     },
     "facing=north,in_wall=false,open=true": {
       "model": "xkdeco:block/threshold_open",
-      "uvlock": true,
       "y": 180
     },
     "facing=east,in_wall=false,open=true": {
       "model": "xkdeco:block/threshold_open",
-      "uvlock": true,
       "y": 270
     },
     "facing=south,in_wall=true,open=false": {
-      "model": "xkdeco:block/threshold_wall",
-      "uvlock": true
+      "model": "xkdeco:block/threshold_wall"
     },
     "facing=west,in_wall=true,open=false": {
       "model": "xkdeco:block/threshold_wall",
-      "uvlock": true,
       "y": 90
     },
     "facing=north,in_wall=true,open=false": {
       "model": "xkdeco:block/threshold_wall",
-      "uvlock": true,
       "y": 180
     },
     "facing=east,in_wall=true,open=false": {
       "model": "xkdeco:block/threshold_wall",
-      "uvlock": true,
       "y": 270
     },
     "facing=south,in_wall=true,open=true": {
-      "model": "xkdeco:block/threshold_wall_open",
-      "uvlock": true
+      "model": "xkdeco:block/threshold_wall_open"
     },
     "facing=west,in_wall=true,open=true": {
       "model": "xkdeco:block/threshold_wall_open",
-      "uvlock": true,
       "y": 90
     },
     "facing=north,in_wall=true,open=true": {
       "model": "xkdeco:block/threshold_wall_open",
-      "uvlock": true,
       "y": 180
     },
     "facing=east,in_wall=true,open=true": {
       "model": "xkdeco:block/threshold_wall_open",
-      "uvlock": true,
       "y": 270
     }
   }

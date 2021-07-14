@@ -3,13 +3,13 @@
 	"parent": "block/block",
 	"ambientocclusion": false,
 	"textures": {
-		"particle": "xkdeco:blocks/black_roof",
+		"particle": "xkdeco:blocks/black_roof_ridge",
 		"ridge": "xkdeco:blocks/black_roof_ridge"
 	},
 	"elements": [
 		{
-			"from": [4.95, -0.05, 4.95],
-			"to": [11.05, 16.05, 11.05],
+			"from": [4.95, 3.95, 4.95],
+			"to": [11.05, 20.05, 11.05],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [1, 0, 7, 16], "texture": "#ridge"},

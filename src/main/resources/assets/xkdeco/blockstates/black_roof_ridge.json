@@ -91,7 +91,7 @@
         "north": "tall"
       },
       "apply": {
-        "model": "xkdeco:block/black_roof_ridge"
+        "model": "xkdeco:block/black_roof_ridge_side_tall"
       }
     },
     {
@@ -99,7 +99,7 @@
         "east": "tall"
       },
       "apply": {
-        "model": "xkdeco:block/black_roof_ridge",
+        "model": "xkdeco:block/black_roof_ridge_side_tall",
         "y": 90
       }
     },
@@ -108,7 +108,7 @@
         "south": "tall"
       },
       "apply": {
-        "model": "xkdeco:block/black_roof_ridge",
+        "model": "xkdeco:block/black_roof_ridge_side_tall",
         "y": 180
       }
     },
@@ -117,7 +117,7 @@
         "west": "tall"
       },
       "apply": {
-        "model": "xkdeco:block/black_roof_ridge",
+        "model": "xkdeco:block/black_roof_ridge_side_tall",
         "y": 270
       }
     }

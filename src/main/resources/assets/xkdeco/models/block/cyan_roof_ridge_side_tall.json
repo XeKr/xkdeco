@@ -1,7 +1,10 @@
 {
-  "parent": "block/template_wall_side_tall",
-  "textures": {
-    "wall": "xkdeco:blocks/cyan_roof_ridge",
-    "particle": "xkdeco:blocks/cyan_roof_ridge"
-  }
+	"parent": "xkdeco:block/black_roof_ridge_side_tall",
+	"ambientocclusion": false,
+	"textures": {
+		"inner": "xkdeco:blocks/roof_inner",
+		"particle": "xkdeco:blocks/cyan_roof",
+		"roof": "xkdeco:blocks/cyan_roof",
+		"ridge": "xkdeco:blocks/cyan_roof_ridge"
+	}
 }

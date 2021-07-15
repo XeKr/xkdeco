@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "xkdeco:block/yellow_ridge_deco_center"
+    },
+    "type=top": {
+      "model": "xkdeco:block/yellow_ridge_deco_center_top"
+    },
+    "type=double": {
+      "model": "xkdeco:block/yellow_ridge_deco_center_full"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+	"parent": "xkdeco:block/black_ridge_deco_upper",
+	"ambientocclusion": false,
+	"textures": {
+		"ridge": "xkdeco:blocks/yellow_roof_ridge",
+		"particle": "xkdeco:blocks/yellow_ridge_deco",
+		"deco": "xkdeco:blocks/yellow_ridge_deco"
+	}
+}

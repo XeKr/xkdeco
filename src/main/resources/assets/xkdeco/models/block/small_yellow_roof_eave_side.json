@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "xkdeco:blocks/yellow_roof",
+    "top": "xkdeco:blocks/yellow_roof",
+    "side": "xkdeco:blocks/yellow_roof"
+  }
+}

@@ -46,61 +46,49 @@
       "y": 180
     },
     "facing=east,half=top,shape=straight": {
-      "model": "xkdeco:block/yellow_roof_side",
-      "x": 180
+      "model": "xkdeco:block/yellow_roof_upper_side"
     },
     "facing=west,half=top,shape=straight": {
-      "model": "xkdeco:block/yellow_roof_side",
-      "x": 180,
+      "model": "xkdeco:block/yellow_roof_upper_side",
       "y": 180
     },
     "facing=south,half=top,shape=straight": {
-      "model": "xkdeco:block/yellow_roof_side",
-      "x": 180,
+      "model": "xkdeco:block/yellow_roof_upper_side",
       "y": 90
     },
     "facing=north,half=top,shape=straight": {
-      "model": "xkdeco:block/yellow_roof_side",
-      "x": 180,
+      "model": "xkdeco:block/yellow_roof_upper_side",
       "y": 270
     },
     "facing=east,half=top,shape=outer_right": {
-      "model": "xkdeco:block/yellow_roof_side_outer",
-      "x": 180,
+      "model": "xkdeco:block/yellow_roof_upper_sideright",
       "y": 90
     },
     "facing=west,half=top,shape=outer_right": {
-      "model": "xkdeco:block/yellow_roof_side_outer",
-      "x": 180,
+      "model": "xkdeco:block/yellow_roof_upper_sideright",
       "y": 270
     },
     "facing=south,half=top,shape=outer_right": {
-      "model": "xkdeco:block/yellow_roof_side_outer",
-      "x": 180,
+      "model": "xkdeco:block/yellow_roof_upper_sideright",
       "y": 180
     },
     "facing=north,half=top,shape=outer_right": {
-      "model": "xkdeco:block/yellow_roof_side_outer",
-      "x": 180
+      "model": "xkdeco:block/yellow_roof_upper_sideright"
     },
     "facing=east,half=top,shape=outer_left": {
-      "model": "xkdeco:block/yellow_roof_side_outer",
-      "x": 180
+      "model": "xkdeco:block/yellow_roof_upper_sideleft",
+      "y": 270
     },
     "facing=west,half=top,shape=outer_left": {
-      "model": "xkdeco:block/yellow_roof_side_outer",
-      "x": 180,
-      "y": 180
-    },
-    "facing=south,half=top,shape=outer_left": {
-      "model": "xkdeco:block/yellow_roof_side_outer",
-      "x": 180,
+      "model": "xkdeco:block/yellow_roof_upper_sideleft",
       "y": 90
     },
+    "facing=south,half=top,shape=outer_left": {
+      "model": "xkdeco:block/yellow_roof_upper_sideleft"
+    },
     "facing=north,half=top,shape=outer_left": {
-      "model": "xkdeco:block/yellow_roof_side_outer",
-      "x": 180,
-      "y": 270
+      "model": "xkdeco:block/yellow_roof_upper_sideleft",
+      "y": 180
     },
     "facing=east,half=top,shape=inner_right": {
       "model": "xkdeco:block/yellow_roof_side_inner",

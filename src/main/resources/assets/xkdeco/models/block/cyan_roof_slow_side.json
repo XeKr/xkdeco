@@ -1,8 +1,10 @@
 {
-  "parent": "block/stairs",
-  "textures": {
-    "bottom": "xkdeco:blocks/cyan_roof",
-    "top": "xkdeco:blocks/cyan_roof",
-    "side": "xkdeco:blocks/cyan_roof"
-  }
+	"parent": "xkdeco:block/black_roof_slow_side",
+	"ambientocclusion": false,
+	"textures": {
+		"inner": "xkdeco:blocks/roof_inner",
+		"particle": "xkdeco:blocks/cyan_roof",
+		"roof": "xkdeco:blocks/cyan_roof",
+		"ridge": "xkdeco:blocks/cyan_roof_ridge"
+	}
 }

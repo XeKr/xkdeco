@@ -1,0 +1,7 @@
+{
+	"parent": "xkdeco:block/black_ridge_deco_center",
+	"textures": {
+		"particle": "xkdeco:blocks/yellow_ridge_deco_center",
+		"center": "xkdeco:blocks/yellow_ridge_deco_center"
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"parent": "xkdeco:block/small_black_roof_steep_sideright",
+	"ambientocclusion": false,
+	"textures": {
+		"ridge": "xkdeco:blocks/small_cyan_roof_ridge",
+		"particle": "xkdeco:blocks/cyan_roof",
+		"roof": "xkdeco:blocks/cyan_roof"
+	}
+}

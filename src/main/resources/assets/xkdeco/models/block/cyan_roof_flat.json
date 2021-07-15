@@ -1,0 +1,9 @@
+{
+	"parent": "xkdeco:block/black_roof_flat",
+	"ambientocclusion": false,
+	"textures": {
+		"inner": "xkdeco:blocks/roof_inner",
+		"particle": "xkdeco:blocks/cyan_roof",
+		"roof": "xkdeco:blocks/cyan_roof"
+	}
+}

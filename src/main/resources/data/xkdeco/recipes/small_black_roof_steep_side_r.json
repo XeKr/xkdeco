@@ -1,0 +1,9 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "xkdeco:black_tiles"
+  },
+  "result": "xkdeco:small_black_roof_steep_side"
+}

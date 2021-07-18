@@ -1,0 +1,8 @@
+{
+	"credit": "Made by XeKr with Blockbench",
+	"parent": "xkdeco:block/ebony_fence_head_flip",
+	"textures": {
+		"particle": "xkdeco:blocks/mahogany_fence_post",
+		"down": "xkdeco:blocks/mahogany_fence_post"
+	}
+}

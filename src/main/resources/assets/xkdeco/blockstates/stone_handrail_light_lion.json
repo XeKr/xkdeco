@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "xkdeco:block/stone_handrail_light_lion"
+    },
+    "facing=east": {
+      "model": "xkdeco:block/stone_handrail_light_lion",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "xkdeco:block/stone_handrail_light_lion",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "xkdeco:block/stone_handrail_light_lion",
+      "y": 270
+    }
+  }
+}

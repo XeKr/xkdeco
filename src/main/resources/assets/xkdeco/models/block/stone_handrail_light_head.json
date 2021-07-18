@@ -1,0 +1,8 @@
+{
+	"credit": "Made by XeKr with Blockbench",
+	"parent": "xkdeco:block/stone_handrail_head",
+	"textures": {
+		"particle": "xkdeco:blocks/stone_handrail_light_post",
+		"down": "xkdeco:blocks/stone_handrail_light_post"
+	}
+}

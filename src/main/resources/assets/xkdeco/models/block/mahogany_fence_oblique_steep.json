@@ -1,0 +1,9 @@
+{
+	"credit": "Made by XeKr with Blockbench",
+	"parent": "xkdeco:block/ebony_fence_oblique_steep",
+	"textures": {
+		"particle": "xkdeco:blocks/mahogany_fence_oblique",
+		"fence": "xkdeco:blocks/mahogany_fence_oblique",
+		"post": "xkdeco:blocks/mahogany_fence_post"
+	}
+}

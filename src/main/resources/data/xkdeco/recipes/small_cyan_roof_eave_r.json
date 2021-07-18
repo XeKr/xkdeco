@@ -1,0 +1,9 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "xkdeco:cyan_tiles"
+  },
+  "result": "xkdeco:small_cyan_roof_eave"
+}

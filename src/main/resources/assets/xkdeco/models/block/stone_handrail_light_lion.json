@@ -1,0 +1,9 @@
+{
+	"credit": "Made by XeKr with Blockbench",
+	"parent": "xkdeco:block/stone_handrail_lion",
+	"textures": {
+		"particle": "xkdeco:blocks/stone_handrail_light_lion",
+		"lion": "xkdeco:blocks/stone_handrail_light_lion",
+		"post": "xkdeco:blocks/stone_handrail_light_post"
+	}
+}

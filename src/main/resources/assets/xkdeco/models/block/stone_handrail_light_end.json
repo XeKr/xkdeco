@@ -1,0 +1,9 @@
+{
+	"credit": "Made by XeKr with Blockbench",
+	"parent": "xkdeco:block/stone_handrail_end",
+	"textures": {
+		"particle": "xkdeco:blocks/stone_handrail_light_end",
+		"end": "xkdeco:blocks/stone_handrail_light_end",
+		"top": "xkdeco:blocks/wall_base_light_top"
+	}
+}

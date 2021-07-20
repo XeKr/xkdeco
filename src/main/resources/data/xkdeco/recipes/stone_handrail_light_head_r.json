@@ -1,0 +1,9 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "minecraft:polished_diorite"
+  },
+  "result": "xkdeco:stone_handrail_light_head"
+}

@@ -1,7 +1,22 @@
 {
-  "parent": "block/door_top_rh",
-  "textures": {
-    "bottom": "xkdeco:blocks/glass_door_bottom",
-    "top": "xkdeco:blocks/glass_door_top"
-  }
+	"credit": "Made by XeKr with Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "xkdeco:blocks/glass_door_top",
+		"face": "xkdeco:blocks/glass_door_top",
+		"side": "xkdeco:blocks/glass_door_side"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [3, 16, 16],
+			"faces": {
+				"north": {"uv": [7, 0, 4, 16], "texture": "#side", "cullface": "north"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#face"},
+				"south": {"uv": [4, 0, 7, 16], "texture": "#side", "cullface": "south"},
+				"west": {"uv": [16, 0, 0, 16], "texture": "#face", "cullface": "west"},
+				"up": {"uv": [0, 0, 3, 16], "texture": "#side", "cullface": "up"}
+			}
+		}
+	]
 }

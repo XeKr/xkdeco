@@ -1,0 +1,9 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "xkdeco:ebony_fence"
+  },
+  "result": "xkdeco:ebony_fence_head"
+}

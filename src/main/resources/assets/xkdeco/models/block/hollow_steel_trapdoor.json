@@ -1,0 +1,9 @@
+{
+	"credit": "Made by XeKr with Blockbench",
+	"parent": "xkdeco:block/glass_trapdoor",
+	"textures": {
+		"particle": "xkdeco:blocks/hollow_steel",
+		"face": "xkdeco:blocks/hollow_steel",
+		"side": "xkdeco:blocks/hollow_steel_door_side"
+	}
+}

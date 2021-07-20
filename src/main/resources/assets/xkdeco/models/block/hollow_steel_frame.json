@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xkdeco:blocks/hollow_steel",
+    "up": "xkdeco:blocks/hollow_steel",
+    "north": "xkdeco:blocks/hollow_steel",
+    "east": "xkdeco:blocks/hollow_steel",
+    "south": "xkdeco:blocks/hollow_steel",
+    "west": "xkdeco:blocks/hollow_steel",
+    "particle": "xkdeco:blocks/hollow_steel"
+  }
+}

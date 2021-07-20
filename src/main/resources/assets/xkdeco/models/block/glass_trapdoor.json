@@ -1,7 +1,23 @@
 {
-  "parent": "block/template_orientable_trapdoor_bottom",
-  "textures": {
-    "texture": "xkdeco:blocks/glass_trapdoor",
-    "particle": "xkdeco:blocks/glass_trapdoor"
-  }
+	"credit": "Made by XeKr with Blockbench",
+	"parent": "block/thin_block",
+	"textures": {
+		"particle": "xkdeco:blocks/glass_trapdoor",
+		"face": "xkdeco:blocks/glass_trapdoor",
+		"side": "xkdeco:blocks/glass_door_side"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 3, 16],
+			"faces": {
+				"north": {"uv": [0, 16, 3, 0], "rotation": 90, "texture": "#side", "cullface": "west"},
+				"east": {"uv": [0, 16, 3, 0], "rotation": 90, "texture": "#side", "cullface": "west"},
+				"south": {"uv": [0, 16, 3, 0], "rotation": 90, "texture": "#side", "cullface": "west"},
+				"west": {"uv": [0, 16, 3, 0], "rotation": 90, "texture": "#side", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#face"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#face", "cullface": "down"}
+			}
+		}
+	]
 }

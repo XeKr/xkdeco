@@ -3,7 +3,7 @@
   "type": "minecraft:stonecutting",
   "count": 1,
   "ingredient": {
-    "item": "minecraft:polished_andesite"
+    "item": "minecraft:stone_bricks"
   },
   "result": "xkdeco:column_base"
 }

@@ -1,0 +1,24 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 4 ",
+    "6  "
+  ],
+  "key": {
+    "2": {
+      "item": "xkdeco:ebony_fence"
+    },
+    "4": {
+      "item": "xkdeco:ebony_fence"
+    },
+    "6": {
+      "item": "xkdeco:ebony_fence"
+    }
+  },
+  "result": {
+    "item": "xkdeco:ebony_fence_oblique",
+    "count": 3
+  }
+}

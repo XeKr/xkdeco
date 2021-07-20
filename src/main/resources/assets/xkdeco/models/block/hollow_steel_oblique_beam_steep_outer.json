@@ -1,0 +1,8 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "xkdeco:blocks/hollow_steel_oblique_beam",
+    "top": "xkdeco:blocks/hollow_steel_oblique_beam",
+    "side": "xkdeco:blocks/hollow_steel_oblique_beam"
+  }
+}

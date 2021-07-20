@@ -9,7 +9,7 @@
     "group": "",
     "recipeShapeless": false,
     "stoneCuttingInputStack": {
-      "value": "Blocks.STONE#6"
+      "value": "Blocks.STONEBRICK#0"
     },
     "stoneCuttingReturnStack": {
       "value": "CUSTOM:ColumnBase"

@@ -1,0 +1,23 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    "34 "
+  ],
+  "key": {
+    "2": {
+      "item": "xkdeco:mahogany_fence"
+    },
+    "3": {
+      "item": "xkdeco:mahogany_fence"
+    },
+    "4": {
+      "item": "xkdeco:mahogany_fence"
+    }
+  },
+  "result": {
+    "item": "xkdeco:mahogany_fence_oblique",
+    "count": 3
+  }
+}

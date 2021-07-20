@@ -1,0 +1,9 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:stonecutting",
+  "count": 4,
+  "ingredient": {
+    "item": "xkdeco:ventiduct"
+  },
+  "result": "xkdeco:ventiduct_cover"
+}

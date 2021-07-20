@@ -1,0 +1,30 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    " 4 ",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "xkdeco:steel_ingot"
+    },
+    "2": {
+      "item": "xkdeco:steel_ingot"
+    },
+    "4": {
+      "item": "xkdeco:steel_ingot"
+    },
+    "6": {
+      "item": "xkdeco:steel_ingot"
+    },
+    "8": {
+      "item": "xkdeco:steel_ingot"
+    }
+  },
+  "result": {
+    "item": "xkdeco:hollow_steel_frame",
+    "count": 20
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "xkdeco:hollow_steel_frame"
+  },
+  "result": "xkdeco:steel_safety_ladder"
+}

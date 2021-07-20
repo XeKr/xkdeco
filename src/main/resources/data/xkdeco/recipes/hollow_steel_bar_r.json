@@ -1,0 +1,9 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:stonecutting",
+  "count": 6,
+  "ingredient": {
+    "item": "xkdeco:hollow_steel_frame"
+  },
+  "result": "xkdeco:hollow_steel_bar"
+}

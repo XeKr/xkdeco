@@ -2,6 +2,7 @@
 	"credit": "Made by XeKr with Blockbench",
 	"parent": "block/stairs",
 	"textures": {
+		"particle": "xkdeco:blocks/hollow_steel_oblique_beam",
 		"bottom": "xkdeco:blocks/hollow_steel_oblique_beam"
 	},
 	"elements": [
@@ -215,5 +216,11 @@
 				"down": {"uv": [8, 13, 15.55, 15], "texture": "#bottom"}
 			}
 		}
-	]
+	],
+	"display": {
+		"gui": {
+			"rotation": [30, 0, 0],
+			"scale": [0.6, 0.6, 0.6]
+		}
+	}
 }

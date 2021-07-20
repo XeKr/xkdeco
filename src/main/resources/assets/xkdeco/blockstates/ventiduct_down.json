@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "xkdeco:block/ventiduct_down"
+    },
+    "facing=east": {
+      "model": "xkdeco:block/ventiduct_down",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "xkdeco:block/ventiduct_down",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "xkdeco:block/ventiduct_down",
+      "y": 270
+    }
+  }
+}

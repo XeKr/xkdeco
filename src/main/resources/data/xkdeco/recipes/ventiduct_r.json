@@ -1,0 +1,33 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "xkdeco:steel_ingot"
+    },
+    "2": {
+      "item": "xkdeco:steel_ingot"
+    },
+    "3": {
+      "item": "xkdeco:steel_ingot"
+    },
+    "5": {
+      "item": "xkdeco:steel_ingot"
+    },
+    "6": {
+      "item": "xkdeco:steel_ingot"
+    },
+    "8": {
+      "item": "xkdeco:steel_ingot"
+    }
+  },
+  "result": {
+    "item": "xkdeco:ventiduct",
+    "count": 24
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "xkdeco:hollow_steel_frame"
+  },
+  "result": "xkdeco:hollow_steel_oblique_beam_slow"
+}

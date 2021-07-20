@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_glass_pane_side_alt",
+  "textures": {
+    "edge": "xkdeco:blocks/steel_column_wall",
+    "pane": "xkdeco:blocks/hollow_steel"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "xkdeco:block/ventiduct_oblique_second"
+    },
+    "facing=east": {
+      "model": "xkdeco:block/ventiduct_oblique_second",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "xkdeco:block/ventiduct_oblique_second",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "xkdeco:block/ventiduct_oblique_second",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SteelTileSlab"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SteelTileSlab"
+      },
+      {
+        "value": "CUSTOM:FanBlade"
+      },
+      {
+        "value": "CUSTOM:SteelTileSlab"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SteelTileSlab"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:FactoryVentFanBig"
+    },
+    "name": "factory_vent_fan_big_r",
+    "namespace": "mod"
+  }
+}

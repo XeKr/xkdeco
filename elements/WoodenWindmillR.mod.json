@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.TRAPDOOR"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.TRAPDOOR"
+      },
+      {
+        "value": "Blocks.PLANKS"
+      },
+      {
+        "value": "Blocks.TRAPDOOR"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.TRAPDOOR"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:WoodenWindmill"
+    },
+    "name": "wooden_windmill_r",
+    "namespace": "mod"
+  }
+}

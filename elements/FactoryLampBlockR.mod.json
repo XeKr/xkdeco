@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 2,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.GLASS_PANE"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.GLASS_PANE"
+      },
+      {
+        "value": "Items.GLOWSTONE_DUST"
+      },
+      {
+        "value": "Blocks.GLASS_PANE"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.GLASS_PANE"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:FactoryLampBlock"
+    },
+    "name": "factory_lamp_block_r",
+    "namespace": "mod"
+  }
+}

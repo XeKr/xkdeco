@@ -1,0 +1,30 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:heavy_weighted_pressure_plate"
+    },
+    "3": {
+      "item": "minecraft:heavy_weighted_pressure_plate"
+    },
+    "4": {
+      "item": "xkdeco:steel_ingot"
+    },
+    "5": {
+      "item": "minecraft:heavy_weighted_pressure_plate"
+    },
+    "7": {
+      "item": "minecraft:heavy_weighted_pressure_plate"
+    }
+  },
+  "result": {
+    "item": "xkdeco:fan_blade",
+    "count": 1
+  }
+}

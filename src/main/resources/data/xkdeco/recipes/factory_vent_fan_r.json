@@ -1,0 +1,16 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "xkdeco:ventiduct"
+    },
+    {
+      "item": "xkdeco:fan_blade"
+    }
+  ],
+  "result": {
+    "item": "xkdeco:factory_vent_fan",
+    "count": 1
+  }
+}

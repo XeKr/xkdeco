@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.IRON_TRAPDOOR"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.IRON_TRAPDOOR"
+      },
+      {
+        "value": "Items.IRON_INGOT"
+      },
+      {
+        "value": "Blocks.IRON_TRAPDOOR"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.IRON_TRAPDOOR"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:IronWindmill"
+    },
+    "name": "iron_windmill_r",
+    "namespace": "mod"
+  }
+}

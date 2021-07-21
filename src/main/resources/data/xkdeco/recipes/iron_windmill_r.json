@@ -1,0 +1,30 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:iron_trapdoor"
+    },
+    "3": {
+      "item": "minecraft:iron_trapdoor"
+    },
+    "4": {
+      "item": "minecraft:iron_ingot"
+    },
+    "5": {
+      "item": "minecraft:iron_trapdoor"
+    },
+    "7": {
+      "item": "minecraft:iron_trapdoor"
+    }
+  },
+  "result": {
+    "item": "xkdeco:iron_windmill",
+    "count": 1
+  }
+}

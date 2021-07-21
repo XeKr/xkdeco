@@ -1,0 +1,20 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "xkdeco:steel_tile_slab"
+    },
+    "1": {
+      "item": "xkdeco:factory_lamp_slab"
+    }
+  },
+  "result": {
+    "item": "xkdeco:factory_ceiling_lamp",
+    "count": 4
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "xkdeco:block/wooden_windmill"
+    },
+    "facing=east": {
+      "model": "xkdeco:block/wooden_windmill",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "xkdeco:block/wooden_windmill",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "xkdeco:block/wooden_windmill",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "xkdeco:block/wooden_windmill",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "xkdeco:block/wooden_windmill",
+      "x": 90
+    }
+  }
+}

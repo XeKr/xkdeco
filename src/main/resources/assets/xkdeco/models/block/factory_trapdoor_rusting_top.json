@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_orientable_trapdoor_top",
+  "textures": {
+    "texture": "xkdeco:blocks/factory_block_rusting",
+    "particle": "xkdeco:blocks/factory_block_rusting"
+  }
+}

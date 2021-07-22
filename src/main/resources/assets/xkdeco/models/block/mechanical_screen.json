@@ -1,0 +1,33 @@
+{
+	"credit": "Made by XeKr with Blockbench",
+	"parent": "block/cube",
+	"textures": {
+		"1": "xkdeco:blocks/mechanical_screen_right",
+		"particle": "xkdeco:blocks/mechanical_screen_left",
+		"down": "xkdeco:blocks/mechanical_screen_left"
+	},
+	"elements": [
+		{
+			"from": [8, 0, 13],
+			"to": [24, 16, 14],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#down"},
+				"east": {"uv": [0, 0, 1, 16], "texture": "#down"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#down"},
+				"up": {"uv": [0, 0, 16, 1], "texture": "#down"},
+				"down": {"uv": [0, 15, 16, 16], "texture": "#down"}
+			}
+		},
+		{
+			"from": [-8, 0, 13],
+			"to": [8, 16, 14],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#1"},
+				"west": {"uv": [15, 0, 16, 16], "texture": "#1"},
+				"up": {"uv": [0, 0, 16, 1], "texture": "#1"},
+				"down": {"uv": [0, 15, 16, 16], "texture": "#1"}
+			}
+		}
+	]
+}

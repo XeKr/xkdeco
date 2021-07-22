@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "xkdeco:block/mechanical_screen"
+    },
+    "facing=east": {
+      "model": "xkdeco:block/mechanical_screen",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "xkdeco:block/mechanical_screen",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "xkdeco:block/mechanical_screen",
+      "y": 270
+    }
+  }
+}

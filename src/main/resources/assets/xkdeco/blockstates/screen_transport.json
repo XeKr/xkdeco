@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "xkdeco:block/screen_transport"
+    },
+    "facing=east": {
+      "model": "xkdeco:block/screen_transport",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "xkdeco:block/screen_transport",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "xkdeco:block/screen_transport",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "xkdeco:block/screen_transport",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "xkdeco:block/screen_transport",
+      "x": 90
+    }
+  }
+}

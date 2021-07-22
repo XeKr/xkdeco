@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "xkdeco:block/screen_dna"
+    },
+    "facing=east": {
+      "model": "xkdeco:block/screen_dna",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "xkdeco:block/screen_dna",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "xkdeco:block/screen_dna",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "xkdeco:block/screen_dna",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "xkdeco:block/screen_dna",
+      "x": 90
+    }
+  }
+}

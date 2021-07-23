@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "xkdeco:block/tech_table_bigcircle"
+    },
+    "facing=east": {
+      "model": "xkdeco:block/tech_table_bigcircle",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "xkdeco:block/tech_table_bigcircle",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "xkdeco:block/tech_table_bigcircle",
+      "y": 270
+    }
+  }
+}

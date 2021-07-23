@@ -1,0 +1,26 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345"
+  ],
+  "key": {
+    "1": {
+      "item": "xkdeco:screen_off"
+    },
+    "3": {
+      "item": "xkdeco:steel_tiles"
+    },
+    "4": {
+      "item": "xkdeco:factory_lamp"
+    },
+    "5": {
+      "item": "xkdeco:steel_tiles"
+    }
+  },
+  "result": {
+    "item": "xkdeco:hologram_base",
+    "count": 4
+  }
+}

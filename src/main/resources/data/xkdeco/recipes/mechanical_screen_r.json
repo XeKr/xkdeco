@@ -1,0 +1,32 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "xkdeco:factory_light_bar"
+    },
+    "1": {
+      "item": "minecraft:glass_pane"
+    },
+    "2": {
+      "item": "xkdeco:factory_light_bar"
+    },
+    "3": {
+      "item": "minecraft:compass"
+    },
+    "4": {
+      "item": "minecraft:glass_pane"
+    },
+    "5": {
+      "item": "minecraft:clock"
+    }
+  },
+  "result": {
+    "item": "xkdeco:mechanical_screen",
+    "count": 1
+  }
+}

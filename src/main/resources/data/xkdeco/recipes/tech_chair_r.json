@@ -1,0 +1,30 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1",
+    "23",
+    "45"
+  ],
+  "key": {
+    "1": {
+      "item": "xkdeco:steel_tile_slab"
+    },
+    "2": {
+      "item": "minecraft:blue_wool"
+    },
+    "3": {
+      "item": "xkdeco:steel_tile_slab"
+    },
+    "4": {
+      "item": "xkdeco:steel_tile_slab"
+    },
+    "5": {
+      "item": "xkdeco:steel_tile_slab"
+    }
+  },
+  "result": {
+    "item": "xkdeco:tech_chair",
+    "count": 1
+  }
+}

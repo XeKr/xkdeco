@@ -1,0 +1,36 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "xkdeco:factory_lamp"
+    },
+    "1": {
+      "item": "xkdeco:factory_lamp"
+    },
+    "2": {
+      "item": "minecraft:lever"
+    },
+    "3": {
+      "item": "minecraft:stone_button"
+    },
+    "4": {
+      "item": "minecraft:stone_button"
+    },
+    "5": {
+      "item": "minecraft:lever"
+    },
+    "7": {
+      "item": "minecraft:lectern"
+    }
+  },
+  "result": {
+    "item": "xkdeco:mechanical_console",
+    "count": 1
+  }
+}

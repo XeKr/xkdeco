@@ -1,0 +1,9 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "xkdeco:tech_table"
+  },
+  "result": "xkdeco:tech_table_bigcircle"
+}

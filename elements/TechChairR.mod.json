@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SteelTileSlab"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.WOOL#11"
+      },
+      {
+        "value": "CUSTOM:SteelTileSlab"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SteelTileSlab"
+      },
+      {
+        "value": "CUSTOM:SteelTileSlab"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:TechChair"
+    },
+    "name": "tech_chair_r",
+    "namespace": "mod"
+  }
+}

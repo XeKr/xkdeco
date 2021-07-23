@@ -1,0 +1,11 @@
+{
+	"credit": "Made by XeKr with Blockbench",
+	"parent": "xkdeco:block/tech_table",
+	"textures": {
+		"particle": "xkdeco:blocks/tech_table_bigcircle",
+		"top": "xkdeco:blocks/tech_table_bigcircle",
+		"side": "xkdeco:blocks/tech_table_side",
+		"bottom": "xkdeco:blocks/tech_console_bottom",
+		"set": "xkdeco:blocks/tech_console_set"
+	}
+}

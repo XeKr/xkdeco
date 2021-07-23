@@ -1,0 +1,20 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "xkdeco:screen_off"
+    },
+    "1": {
+      "item": "xkdeco:steel_tiles"
+    }
+  },
+  "result": {
+    "item": "xkdeco:tech_table",
+    "count": 1
+  }
+}

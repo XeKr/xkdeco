@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "xkdeco:block/tech_chair"
+    },
+    "facing=east": {
+      "model": "xkdeco:block/tech_chair",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "xkdeco:block/tech_chair",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "xkdeco:block/tech_chair",
+      "y": 270
+    }
+  }
+}

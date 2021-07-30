@@ -1,0 +1,7 @@
+{
+	"parent": "xkdeco:block/sign_entrance",
+	"textures": {
+		"particle": "xkdeco:blocks/sign_exit",
+		"down": "xkdeco:blocks/sign_exit"
+	}
+}

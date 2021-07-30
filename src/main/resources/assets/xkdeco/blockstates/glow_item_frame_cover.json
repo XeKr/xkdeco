@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "xkdeco:block/glow_item_frame_cover"
+    },
+    "facing=east": {
+      "model": "xkdeco:block/glow_item_frame_cover",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "xkdeco:block/glow_item_frame_cover",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "xkdeco:block/glow_item_frame_cover",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "xkdeco:block/glow_item_frame_cover",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "xkdeco:block/glow_item_frame_cover",
+      "x": 90
+    }
+  }
+}

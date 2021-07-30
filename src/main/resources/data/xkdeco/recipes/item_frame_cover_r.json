@@ -1,0 +1,16 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "xkdeco:glass_trapdoor"
+    }
+  },
+  "result": {
+    "item": "xkdeco:item_frame_cover",
+    "count": 1
+  }
+}

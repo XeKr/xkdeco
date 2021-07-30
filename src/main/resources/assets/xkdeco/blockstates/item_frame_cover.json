@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "xkdeco:block/item_frame_cover"
+    },
+    "facing=east": {
+      "model": "xkdeco:block/item_frame_cover",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "xkdeco:block/item_frame_cover",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "xkdeco:block/item_frame_cover",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "xkdeco:block/item_frame_cover",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "xkdeco:block/item_frame_cover",
+      "x": 90
+    }
+  }
+}

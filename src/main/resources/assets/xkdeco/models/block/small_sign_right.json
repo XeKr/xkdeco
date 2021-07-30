@@ -1,0 +1,7 @@
+{
+	"parent": "xkdeco:block/small_sign_left",
+	"textures": {
+		"particle": "xkdeco:blocks/small_sign_right",
+		"down": "xkdeco:blocks/small_sign_right"
+	}
+}

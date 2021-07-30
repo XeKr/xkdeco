@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "xkdeco:block/sign_exit"
+    },
+    "facing=east": {
+      "model": "xkdeco:block/sign_exit",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "xkdeco:block/sign_exit",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "xkdeco:block/sign_exit",
+      "y": 270
+    }
+  }
+}

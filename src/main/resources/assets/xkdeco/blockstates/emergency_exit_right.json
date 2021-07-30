@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "xkdeco:block/emergency_exit_right"
+    },
+    "facing=east": {
+      "model": "xkdeco:block/emergency_exit_right",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "xkdeco:block/emergency_exit_right",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "xkdeco:block/emergency_exit_right",
+      "y": 270
+    }
+  }
+}

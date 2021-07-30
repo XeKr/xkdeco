@@ -1,0 +1,20 @@
+{
+  "group": "xkdeco",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "xkdeco:item_frame_cover"
+    },
+    "1": {
+      "item": "minecraft:glowstone_dust"
+    }
+  },
+  "result": {
+    "item": "xkdeco:glow_item_frame_cover",
+    "count": 1
+  }
+}
